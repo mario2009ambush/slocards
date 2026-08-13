@@ -1006,6 +1006,19 @@ document.addEventListener('DOMContentLoaded', () => {
   });
 
   // Deck Management triggers
+  const resetBtn = document.getElementById('reset-deck-btn');
+  if (resetBtn) {
+    resetBtn.addEventListener('click', () => {
+      if (confirm('Möchten Sie das Deck wirklich auf die 1000 Standardkarten zurücksetzen? Ihr Lernfortschritt wird dabei zurückgesetzt.')) {
+        localStorage.removeItem('slocards_deck');
+        initData();
+        renderDeckViewer();
+        renderDashboard();
+        alert('Deck erfolgreich zurückgesetzt!');
+      }
+    });
+  }
+
   const addBtn = document.getElementById('add-card-btn');
   if (addBtn) addBtn.addEventListener('click', openAddModal);
 

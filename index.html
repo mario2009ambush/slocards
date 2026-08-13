@@ -174,7 +174,10 @@
     <section id="deck" class="tab-content">
       <div class="deck-controls">
         <h1>Kartenstapel verwalten</h1>
-        <button class="btn-primary" id="add-card-btn">➕ Neue Karte hinzufügen</button>
+        <div style="display: flex; gap: 0.75rem; flex-wrap: wrap;">
+          <button class="btn-secondary" id="reset-deck-btn" style="border-color: var(--color-warning); color: var(--color-warning);">🔄 Auf Standard zurücksetzen</button>
+          <button class="btn-primary" id="add-card-btn">➕ Neue Karte hinzufügen</button>
+        </div>
       </div>
 
       <div class="glass-card">

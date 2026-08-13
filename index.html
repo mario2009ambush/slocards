@@ -1,0 +1,288 @@
+<!DOCTYPE html>
+<html lang="de">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
+  <title>SloCards - Anki & Quizlet Spaced Repetition App</title>
+  
+  <!-- iOS Web App Configuration -->
+  <meta name="apple-mobile-web-app-capable" content="yes">
+  <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
+  <meta name="apple-mobile-web-app-title" content="SloCards">
+  
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+  <!-- Header Section with Navigation -->
+  <header>
+    <div class="logo">
+      <div class="logo-icon"></div>
+      SloCards
+    </div>
+    <nav>
+      <button class="nav-tab active" data-tab="dashboard">
+        📊 Dashboard
+      </button>
+      <button class="nav-tab" data-tab="study">
+        🧠 Lernen
+      </button>
+      <button class="nav-tab" data-tab="deck">
+        🗂️ Kartenstapel
+      </button>
+      <button class="nav-tab" data-tab="import">
+        📥 CSV-Import
+      </button>
+    </nav>
+  </header>
+
+  <!-- Main Container -->
+  <main>
+
+    <!-- 1. DASHBOARD TAB -->
+    <section id="dashboard" class="tab-content active">
+      <h1>Willkommen zurück bei SloCards!</h1>
+      <p style="margin-bottom: 2rem;">Lernen Sie Ihre Vokabeln schneller durch optimiertes SuperMemo-2 Spaced-Repetition-Training.</p>
+
+      <!-- Stat Cards -->
+      <div class="dashboard-grid">
+        <div class="stat-card">
+          <div class="stat-icon">📚</div>
+          <div>
+            <div class="stat-number" id="stat-total-cards">0</div>
+            <div class="stat-label">Gesamtanzahl Karten</div>
+          </div>
+        </div>
+
+        <div class="stat-card">
+          <div class="stat-icon">⏳</div>
+          <div>
+            <div class="stat-number" id="stat-due-cards">0</div>
+            <div class="stat-label">Heute fällige Karten</div>
+          </div>
+        </div>
+
+        <div class="stat-card">
+          <div class="stat-icon">🎓</div>
+          <div>
+            <div class="stat-number" id="stat-mastered-cards">0</div>
+            <div class="stat-label">Gemeisterte Karten</div>
+          </div>
+        </div>
+
+        <div class="stat-card">
+          <div class="stat-icon">🔥</div>
+          <div>
+            <div class="stat-number" id="dashboard-streak">0 Tage</div>
+            <div class="stat-label">Aktuelle Lern-Streak</div>
+          </div>
+        </div>
+      </div>
+
+      <!-- Activity Heatmap -->
+      <div class="glass-card" style="margin-bottom: 2rem;">
+        <h2>Aktivitätsübersicht</h2>
+        <p style="margin-bottom: 1rem; font-size: 0.9rem;">Ihre tägliche Lernaktivität der letzten 12 Monate.</p>
+        <div class="heatmap-wrapper">
+          <div class="heatmap-days-labels">
+            <span>So</span>
+            <span>Di</span>
+            <span>Do</span>
+            <span>Sa</span>
+          </div>
+          <div style="flex: 1;">
+            <div class="heatmap-months">
+              <span>Aug</span>
+              <span>Sep</span>
+              <span>Okt</span>
+              <span>Nov</span>
+              <span>Dez</span>
+              <span>Jan</span>
+              <span>Feb</span>
+              <span>Mär</span>
+              <span>Apr</span>
+              <span>Mai</span>
+              <span>Jun</span>
+              <span>Jul</span>
+            </div>
+            <div class="heatmap-container">
+              <div class="heatmap-grid" id="heatmap-grid"></div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </section>
+
+    <!-- 2. STUDY TAB -->
+    <section id="study" class="tab-content">
+      <div class="study-header">
+        <h1>Lernsitzung</h1>
+        <div style="display: flex; align-items: center; gap: 1rem; flex-wrap: wrap;">
+          <!-- Settings for Prompt Language -->
+          <div style="display: flex; align-items: center; gap: 0.5rem;">
+            <label for="prompt-lang-select" style="font-size: 0.85rem; font-weight: 600; color: var(--text-muted);">Frage nach:</label>
+            <select id="prompt-lang-select" class="typing-input" style="padding: 0.4rem 1rem; font-size: 0.85rem; width: auto; background: var(--bg-glass);">
+              <option value="german">Deutsch ➡️ Slowakisch</option>
+              <option value="slovak">Slowakisch ➡️ Deutsch</option>
+            </select>
+          </div>
+        </div>
+      </div>
+
+      <!-- Study Modes Selector -->
+      <div class="study-modes">
+        <button class="mode-btn active" data-mode="flashcard">🎴 Karteikarte</button>
+        <button class="mode-btn" data-mode="typing">✍️ Schreiben</button>
+        <button class="mode-btn" data-mode="choice">⚡ Multiple-Choice</button>
+      </div>
+
+      <!-- Progress bar -->
+      <div class="session-progress-container">
+        <div class="session-progress-bar" id="session-progress-bar"></div>
+      </div>
+
+      <!-- Filter by Category prior to study -->
+      <div class="glass-card" style="padding: 1.5rem; margin-bottom: 2rem;">
+        <h3 style="font-size: 1rem; color: var(--text-muted); margin-bottom: 0.75rem;">Kategorie-Filter für Lernsitzung:</h3>
+        <div class="category-filters" id="category-filter-list"></div>
+      </div>
+
+      <!-- Main Study Area -->
+      <div id="study-card-area">
+        <!-- Rendered dynamically by app.js -->
+      </div>
+
+      <!-- Grading and inputs Area -->
+      <div id="control-area">
+        <!-- Rendered dynamically by app.js -->
+      </div>
+
+      <!-- Shortcut Reference Guide -->
+      <div class="glass-card" style="margin-top: 3rem; padding: 1.25rem; font-size: 0.85rem;">
+        <h4 style="margin-bottom: 0.5rem; color: var(--text-main);">Tastenkombinationen für schnelles Lernen</h4>
+        <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(200px, 1fr)); gap: 1rem; color: var(--text-muted);">
+          <div><span class="shortcut-hint">Leertaste</span> Karte umdrehen / Antwort prüfen</div>
+          <div><span class="shortcut-hint">1</span> SRS-Bewertung: Wiederholen</div>
+          <div><span class="shortcut-hint">2</span> SRS-Bewertung: Schwer</div>
+          <div><span class="shortcut-hint">3</span> SRS-Bewertung: Gut</div>
+          <div><span class="shortcut-hint">4</span> SRS-Bewertung: Einfach</div>
+        </div>
+      </div>
+    </section>
+
+    <!-- 3. DECK VIEWER TAB -->
+    <section id="deck" class="tab-content">
+      <div class="deck-controls">
+        <h1>Kartenstapel verwalten</h1>
+        <button class="btn-primary" id="add-card-btn">➕ Neue Karte hinzufügen</button>
+      </div>
+
+      <div class="glass-card">
+        <div style="display: flex; gap: 1rem; margin-bottom: 1.5rem; flex-wrap: wrap;">
+          <input type="text" id="deck-search-input" class="deck-search" placeholder="Karten suchen (Slowakisch, Deutsch, Kategorie)...">
+        </div>
+
+        <div class="table-wrapper">
+          <table id="deck-table">
+            <thead>
+              <tr>
+                <th>Kategorie</th>
+                <th>Slowakisch</th>
+                <th>Deutsch</th>
+                <th>Status (Wiederholen)</th>
+                <th>Aktionen</th>
+              </tr>
+            </thead>
+            <tbody>
+              <!-- Rendered dynamically by app.js -->
+            </tbody>
+          </table>
+        </div>
+      </div>
+    </section>
+
+    <!-- 4. IMPORT TAB -->
+    <section id="import" class="tab-content">
+      <h1>Karten aus CSV importieren</h1>
+      <p style="margin-bottom: 2rem;">Fügen Sie Ihre Excel- oder CSV-Datensätze direkt ein oder laden Sie die Datei hoch.</p>
+
+      <div class="glass-card">
+        <h2>CSV-Upload</h2>
+        <p style="margin-bottom: 1.5rem; font-size: 0.9rem;">Die CSV-Datei muss mit Semikolons (<code>;</code>) getrennt sein und folgende Spaltenstruktur aufweisen:</p>
+        
+        <!-- Syntax display box -->
+        <div class="context-box" style="margin-bottom: 2rem; font-family: monospace; font-size: 0.95rem; border-left: 4px solid var(--color-primary);">
+          Nr.;Kategorie;Slowakisch;Deutsch;Beispielsatz SK;Übersetzung DE
+        </div>
+
+        <div style="display: grid; grid-template-columns: 1fr; gap: 2rem;">
+          <div>
+            <h3>Methode A: Datei hochladen</h3>
+            <div class="import-zone" onclick="document.getElementById('csv-file').click()">
+              <div class="import-icon">📁</div>
+              <p>Ziehen Sie Ihre CSV-Datei hierher oder <span style="color: var(--color-primary); font-weight: 600; text-decoration: underline;">durchsuchen Sie Ihren Computer</span></p>
+              <span id="csv-filename" style="display: block; margin-top: 1rem; color: var(--color-secondary); font-weight: 600;"></span>
+              <input type="file" id="csv-file" accept=".csv, .txt" style="display: none;">
+            </div>
+          </div>
+
+          <div>
+            <h3>Methode B: Text einfügen</h3>
+            <textarea id="csv-paste" class="import-paste-area" placeholder="1;Nomen;škola;Schule;Táto škola je veľmi veľká.;Diese Schule ist sehr groß."></textarea>
+          </div>
+        </div>
+
+        <div style="text-align: right; margin-top: 1.5rem;">
+          <button class="btn-primary" id="import-submit-btn" style="padding: 0.8rem 2rem;">Importieren starten</button>
+        </div>
+      </div>
+    </section>
+
+  </main>
+
+  <!-- CARD ADD/EDIT MODAL OVERLAY -->
+  <div class="modal-overlay" id="card-modal">
+    <div class="modal-content">
+      <div class="modal-header">
+        <h3 id="modal-title">Neue Karte hinzufügen</h3>
+        <button class="modal-close">&times;</button>
+      </div>
+      <form id="modal-card-form">
+        <div class="form-group">
+          <label for="card-form-category" class="form-label">Kategorie</label>
+          <input type="text" id="card-form-category" class="form-input" placeholder="z. B. Verben, Nomen, Redewendungen" required>
+        </div>
+
+        <div class="form-group">
+          <label for="card-form-slovak" class="form-label">Slowakisch</label>
+          <input type="text" id="card-form-slovak" class="form-input" placeholder="Slowakische Übersetzung" required>
+        </div>
+
+        <div class="form-group">
+          <label for="card-form-german" class="form-label">Deutsch</label>
+          <input type="text" id="card-form-german" class="form-input" placeholder="Deutsche Übersetzung" required>
+        </div>
+
+        <div class="form-group">
+          <label for="card-form-sentence" class="form-label">Beispielsatz SK</label>
+          <input type="text" id="card-form-sentence" class="form-input" placeholder="Slowakischer Satz (optional)">
+        </div>
+
+        <div class="form-group">
+          <label for="card-form-translation" class="form-label">Übersetzung DE</label>
+          <input type="text" id="card-form-translation" class="form-input" placeholder="Deutsche Übersetzung des Beispielsatzes (optional)">
+        </div>
+
+        <div class="modal-footer">
+          <button type="button" class="btn-secondary" id="modal-cancel">Abbrechen</button>
+          <button type="submit" class="btn-primary">Speichern</button>
+        </div>
+      </form>
+    </div>
+  </div>
+
+  <script src="demo_data.js"></script>
+  <script src="srs.js"></script>
+  <script src="app.js"></script>
+</body>
+</html>

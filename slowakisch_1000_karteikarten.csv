@@ -1,0 +1,1001 @@
+﻿Nr.;Kategorie;Slowakisch;Deutsch;Beispielsatz SK;Übersetzung DE
+1;01 Grundlagen;áno;ja;Áno, mám čas.;Ja, ich habe Zeit.
+2;01 Grundlagen;nie;nein;Nie, dnes nemôžem.;Nein, heute kann ich nicht.
+3;01 Grundlagen;prosím;bitte;Jednu kávu, prosím.;Einen Kaffee, bitte.
+4;01 Grundlagen;ďakujem;danke;Ďakujem za pomoc.;Danke für die Hilfe.
+5;01 Grundlagen;ahoj;hallo;Ahoj, ako sa máš?;Hallo, wie geht es dir?
+6;01 Grundlagen;dobrý;gut;Dnes si zapamätám slovo „dobrý“.;Heute merke ich mir das Wort „gut“.
+7;01 Grundlagen;zle;schlecht;Dnes si zapamätám slovo „zle“.;Heute merke ich mir das Wort „schlecht“.
+8;01 Grundlagen;dobre;gut;Dnes si zapamätám slovo „dobre“.;Heute merke ich mir das Wort „gut“.
+9;01 Grundlagen;tu;hier;Som tu.;Ich bin hier.
+10;01 Grundlagen;tam;dort;Auto je tam.;Das Auto ist dort.
+11;01 Grundlagen;kde;wo;Kde je stanica?;Wo ist der Bahnhof?
+12;01 Grundlagen;kedy;wann;Kedy prídeš?;Wann kommst du?
+13;01 Grundlagen;ako;wie;Ako sa máš?;Wie geht es dir?
+14;01 Grundlagen;čo;was;Čo robíš?;Was machst du?
+15;01 Grundlagen;kto;wer;Kto je to?;Wer ist das?
+16;01 Grundlagen;prečo;warum;Prečo sa smeješ?;Warum lachst du?
+17;01 Grundlagen;preto;deshalb;Dnes si zapamätám slovo „preto“.;Heute merke ich mir das Wort „deshalb“.
+18;01 Grundlagen;koľko;wie viel;Koľko to stojí?;Wie viel kostet das?
+19;01 Grundlagen;ktorý;welcher;Dnes si zapamätám slovo „ktorý“.;Heute merke ich mir das Wort „welcher“.
+20;01 Grundlagen;aký;was für ein;Dnes si zapamätám slovo „aký“.;Heute merke ich mir das Wort „was für ein“.
+21;01 Grundlagen;tento;dieser;Dnes si zapamätám slovo „tento“.;Heute merke ich mir das Wort „dieser“.
+22;01 Grundlagen;ten;jener/der;Dnes si zapamätám slovo „ten“.;Heute merke ich mir das Wort „jener/der“.
+23;01 Grundlagen;to;das;Dnes si zapamätám slovo „to“.;Heute merke ich mir das Wort „das“.
+24;01 Grundlagen;tá;die;Dnes si zapamätám slovo „tá“.;Heute merke ich mir das Wort „die“.
+25;01 Grundlagen;toto;dies;Dnes si zapamätám slovo „toto“.;Heute merke ich mir das Wort „dies“.
+26;01 Grundlagen;nič;nichts;Nič nepotrebujem.;Ich brauche nichts.
+27;01 Grundlagen;niečo;etwas;Chcem niečo jesť.;Ich möchte etwas essen.
+28;01 Grundlagen;všetko;alles;Všetko je v poriadku.;Alles ist in Ordnung.
+29;01 Grundlagen;každý;jeder;Dnes si zapamätám slovo „každý“.;Heute merke ich mir das Wort „jeder“.
+30;01 Grundlagen;niekto;jemand;Dnes si zapamätám slovo „niekto“.;Heute merke ich mir das Wort „jemand“.
+31;01 Grundlagen;nikto;niemand;Dnes si zapamätám slovo „nikto“.;Heute merke ich mir das Wort „niemand“.
+32;01 Grundlagen;veľa;viel;Mám veľa práce.;Ich habe viel Arbeit.
+33;01 Grundlagen;málo;wenig;Mám málo času.;Ich habe wenig Zeit.
+34;01 Grundlagen;viac;mehr;Dnes si zapamätám slovo „viac“.;Heute merke ich mir das Wort „mehr“.
+35;01 Grundlagen;menej;weniger;Dnes si zapamätám slovo „menej“.;Heute merke ich mir das Wort „weniger“.
+36;01 Grundlagen;dosť;genug;To je dosť.;Das ist genug.
+37;01 Grundlagen;príliš;zu/sehr;Dnes si zapamätám slovo „príliš“.;Heute merke ich mir das Wort „zu/sehr“.
+38;01 Grundlagen;veľmi;sehr;Je to veľmi dobré.;Es ist sehr gut.
+39;01 Grundlagen;trochu;ein bisschen;Hovorím trochu po slovensky.;Ich spreche ein bisschen Slowakisch.
+40;01 Grundlagen;iba;nur;Dnes si zapamätám slovo „iba“.;Heute merke ich mir das Wort „nur“.
+41;01 Grundlagen;len;nur;Dnes si zapamätám slovo „len“.;Heute merke ich mir das Wort „nur“.
+42;01 Grundlagen;aj;auch;Aj ja.;Ich auch.
+43;01 Grundlagen;ešte;noch;Ešte jednu kávu, prosím.;Noch einen Kaffee, bitte.
+44;01 Grundlagen;už;schon;Už som doma.;Ich bin schon zu Hause.
+45;01 Grundlagen;zase;wieder;Dnes si zapamätám slovo „zase“.;Heute merke ich mir das Wort „wieder“.
+46;01 Grundlagen;vždy;immer;Vždy prídem načas.;Ich komme immer pünktlich.
+47;01 Grundlagen;nikdy;nie;Nikdy tam nechodím.;Ich gehe nie dorthin.
+48;01 Grundlagen;často;oft;Často počúvam hudbu.;Ich höre oft Musik.
+49;01 Grundlagen;niekedy;manchmal;Niekedy chodím pešo.;Manchmal gehe ich zu Fuß.
+50;01 Grundlagen;teraz;jetzt;Teraz nemám čas.;Jetzt habe ich keine Zeit.
+51;01 Grundlagen;potom;danach;Potom pôjdeme domov.;Danach gehen wir nach Hause.
+52;01 Grundlagen;dnes;heute;Dnes pracujem.;Heute arbeite ich.
+53;01 Grundlagen;zajtra;morgen;Zajtra mám voľno.;Morgen habe ich frei.
+54;01 Grundlagen;včera;gestern;Včera som bol doma.;Gestern war ich zu Hause.
+55;01 Grundlagen;ráno;morgens;Ráno pijem kávu.;Morgens trinke ich Kaffee.
+56;01 Grundlagen;večer;abends;Večer pozeráme film.;Abends schauen wir einen Film.
+57;01 Grundlagen;noc;Nacht;Dnes si zapamätám slovo „noc“.;Heute merke ich mir das Wort „Nacht“.
+58;01 Grundlagen;deň;Tag;Dnes je pekný deň.;Heute ist ein schöner Tag.
+59;01 Grundlagen;týždeň;Woche;Tento týždeň mám veľa práce.;Diese Woche habe ich viel Arbeit.
+60;01 Grundlagen;mesiac;Monat;Dnes si zapamätám slovo „mesiac“.;Heute merke ich mir das Wort „Monat“.
+61;01 Grundlagen;rok;Jahr;Tento rok študujem v Linzi.;Dieses Jahr studiere ich in Linz.
+62;01 Grundlagen;a;und;Káva a voda, prosím.;Kaffee und Wasser, bitte.
+63;01 Grundlagen;alebo;oder;Kávu alebo čaj?;Kaffee oder Tee?
+64;01 Grundlagen;ale;aber;Chcem ísť, ale nemám čas.;Ich möchte gehen, aber ich habe keine Zeit.
+65;01 Grundlagen;lebo;weil;Som doma, lebo som unavený.;Ich bin zu Hause, weil ich müde bin.
+66;01 Grundlagen;že;dass;Myslím, že je to dobré.;Ich denke, dass es gut ist.
+67;01 Grundlagen;ak;wenn/falls;Dnes si zapamätám slovo „ak“.;Heute merke ich mir das Wort „wenn/falls“.
+68;01 Grundlagen;keď;wenn/als;Zavolám ti, keď prídem.;Ich rufe dich an, wenn ich ankomme.
+69;01 Grundlagen;tak;so/dann;Dnes si zapamätám slovo „tak“.;Heute merke ich mir das Wort „so/dann“.
+70;01 Grundlagen;takže;also;Som unavený, takže idem spať.;Ich bin müde, also gehe ich schlafen.
+71;01 Grundlagen;pre;für;Dnes si zapamätám slovo „pre“.;Heute merke ich mir das Wort „für“.
+72;01 Grundlagen;bez;ohne;Kávu bez cukru, prosím.;Kaffee ohne Zucker, bitte.
+73;01 Grundlagen;s;mit;Idem s kamarátom.;Ich gehe mit einem Freund.
+74;01 Grundlagen;do;in/nach;Idem do mesta.;Ich gehe in die Stadt.
+75;01 Grundlagen;z;aus/von;Som z Rakúska.;Ich komme aus Österreich.
+76;01 Grundlagen;od;von/seit;Dnes si zapamätám slovo „od“.;Heute merke ich mir das Wort „von/seit“.
+77;01 Grundlagen;na;auf/an/für;Idem na kávu.;Ich gehe auf einen Kaffee.
+78;01 Grundlagen;v;in;Bývam v Rakúsku.;Ich wohne in Österreich.
+79;01 Grundlagen;pri;bei;Dnes si zapamätám slovo „pri“.;Heute merke ich mir das Wort „bei“.
+80;01 Grundlagen;pod;unter;Taška je pod stolom.;Die Tasche ist unter dem Tisch.
+81;01 Grundlagen;nad;über;Dnes si zapamätám slovo „nad“.;Heute merke ich mir das Wort „über“.
+82;01 Grundlagen;pred;vor;Čakám pred domom.;Ich warte vor dem Haus.
+83;01 Grundlagen;za;hinter/für;Dnes si zapamätám slovo „za“.;Heute merke ich mir das Wort „hinter/für“.
+84;01 Grundlagen;medzi;zwischen;Sedím medzi dvoma kamarátmi.;Ich sitze zwischen zwei Freunden.
+85;01 Grundlagen;okolo;um/herum;Dnes si zapamätám slovo „okolo“.;Heute merke ich mir das Wort „um/herum“.
+86;01 Grundlagen;cez;durch/über;Dnes si zapamätám slovo „cez“.;Heute merke ich mir das Wort „durch/über“.
+87;01 Grundlagen;proti;gegen;Dnes si zapamätám slovo „proti“.;Heute merke ich mir das Wort „gegen“.
+88;01 Grundlagen;po;nach;Dnes si zapamätám slovo „po“.;Heute merke ich mir das Wort „nach“.
+89;01 Grundlagen;u;bei;Dnes si zapamätám slovo „u“.;Heute merke ich mir das Wort „bei“.
+90;01 Grundlagen;blízko;nah;Bývam blízko centra.;Ich wohne nahe dem Zentrum.
+91;01 Grundlagen;ďaleko;weit;Je to ďaleko?;Ist es weit?
+92;01 Grundlagen;hore;oben;Dnes si zapamätám slovo „hore“.;Heute merke ich mir das Wort „oben“.
+93;01 Grundlagen;dole;unten;Dnes si zapamätám slovo „dole“.;Heute merke ich mir das Wort „unten“.
+94;01 Grundlagen;vľavo;links;Odboč vľavo.;Bieg links ab.
+95;01 Grundlagen;vpravo;rechts;Odboč vpravo.;Bieg rechts ab.
+96;01 Grundlagen;rovno;geradeaus;Choď rovno.;Geh geradeaus.
+97;01 Grundlagen;spolu;zusammen;Ideme tam spolu.;Wir gehen zusammen dorthin.
+98;01 Grundlagen;sám;allein;Dnes si zapamätám slovo „sám“.;Heute merke ich mir das Wort „allein“.
+99;01 Grundlagen;možno;vielleicht;Možno prídem zajtra.;Vielleicht komme ich morgen.
+100;01 Grundlagen;určite;sicher/bestimmt;Určite prídem.;Ich komme bestimmt.
+101;01 Grundlagen;asi;wahrscheinlich/etwa;Dnes si zapamätám slovo „asi“.;Heute merke ich mir das Wort „wahrscheinlich/etwa“.
+102;01 Grundlagen;naozaj;wirklich;Je to naozaj dobré.;Es ist wirklich gut.
+103;02 Verben I;byť;sein;Chcem byť doma.;Ich möchte zu Hause sein.
+104;02 Verben I;mať;haben;Chcem mať viac času.;Ich möchte mehr Zeit haben.
+105;02 Verben I;robiť;machen;Čo chceš robiť?;Was möchtest du machen?
+106;02 Verben I;ísť;gehen;Chcem ísť domov.;Ich möchte nach Hause gehen.
+107;02 Verben I;prísť;kommen;Môžeš prísť zajtra?;Kannst du morgen kommen?
+108;02 Verben I;chcieť;wollen;Chcem kávu.;Ich möchte Kaffee.
+109;02 Verben I;môcť;können/dürfen;Môžem si sadnúť?;Kann ich mich setzen?
+110;02 Verben I;musieť;müssen;Musím ísť.;Ich muss gehen.
+111;02 Verben I;vedieť;wissen/können;Neviem, kde je.;Ich weiß nicht, wo es ist.
+112;02 Verben I;poznať;kennen;Poznáš Bratislavu?;Kennst du Bratislava?
+113;02 Verben I;myslieť;denken;Čo si myslíš?;Was denkst du?
+114;02 Verben I;hovoriť;sprechen;Hovorím trochu po slovensky.;Ich spreche ein bisschen Slowakisch.
+115;02 Verben I;povedať;sagen;Môžeš mi to povedať?;Kannst du mir das sagen?
+116;02 Verben I;rozprávať;erzählen/sprechen;Dnes si precvičujem sloveso „rozprávať“.;Heute übe ich das Verb „erzählen/sprechen“.
+117;02 Verben I;počúvať;zuhören;Rád počúvam hudbu.;Ich höre gern Musik.
+118;02 Verben I;počuť;hören;Nepočujem ťa dobre.;Ich höre dich nicht gut.
+119;02 Verben I;vidieť;sehen;Vidím ho každý deň.;Ich sehe ihn jeden Tag.
+120;02 Verben I;pozerať;schauen;Večer pozerám film.;Abends schaue ich einen Film.
+121;02 Verben I;čítať;lesen;Rád čítam knihy.;Ich lese gern Bücher.
+122;02 Verben I;písať;schreiben;Píšem správu.;Ich schreibe eine Nachricht.
+123;02 Verben I;učiť sa;lernen;Učím sa po slovensky.;Ich lerne Slowakisch.
+124;02 Verben I;rozumieť;verstehen;Rozumiem trochu.;Ich verstehe ein bisschen.
+125;02 Verben I;pamätať si;sich erinnern;Dnes si precvičujem sloveso „pamätať si“.;Heute übe ich das Verb „sich erinnern“.
+126;02 Verben I;zabudnúť;vergessen;Nechcem na to zabudnúť.;Ich möchte das nicht vergessen.
+127;02 Verben I;pýtať sa;fragen;Chcem sa niečo opýtať.;Ich möchte etwas fragen.
+128;02 Verben I;odpovedať;antworten;Neviem odpovedať.;Ich kann nicht antworten.
+129;02 Verben I;volať;anrufen/nennen;Zavolám ti večer.;Ich rufe dich am Abend an.
+130;02 Verben I;stretnúť;treffen;Dnes si precvičujem sloveso „stretnúť“.;Heute übe ich das Verb „treffen“.
+131;02 Verben I;čakať;warten;Čakám na autobus.;Ich warte auf den Bus.
+132;02 Verben I;hľadať;suchen;Hľadám stanicu.;Ich suche den Bahnhof.
+133;02 Verben I;nájsť;finden;Nemôžem nájsť kľúče.;Ich kann die Schlüssel nicht finden.
+134;02 Verben I;stratiť;verlieren;Dnes si precvičujem sloveso „stratiť“.;Heute übe ich das Verb „verlieren“.
+135;02 Verben I;dať;geben;Dáš si kávu?;Möchtest du einen Kaffee?
+136;02 Verben I;dostať;bekommen;Môžem dostať vodu?;Kann ich Wasser bekommen?
+137;02 Verben I;brať;nehmen;Dnes si precvičujem sloveso „brať“.;Heute übe ich das Verb „nehmen“.
+138;02 Verben I;priniesť;bringen;Dnes si precvičujem sloveso „priniesť“.;Heute übe ich das Verb „bringen“.
+139;02 Verben I;niesť;tragen;Dnes si precvičujem sloveso „niesť“.;Heute übe ich das Verb „tragen“.
+140;02 Verben I;kúpiť;kaufen;Chcem kúpiť lístok.;Ich möchte ein Ticket kaufen.
+141;02 Verben I;predať;verkaufen;Dnes si precvičujem sloveso „predať“.;Heute übe ich das Verb „verkaufen“.
+142;02 Verben I;platiť;bezahlen;Môžem platiť kartou?;Kann ich mit Karte bezahlen?
+143;02 Verben I;stáť;kosten/stehen;Dnes si precvičujem sloveso „stáť“.;Heute übe ich das Verb „kosten/stehen“.
+144;02 Verben I;potrebovať;brauchen;Potrebujem pomoc.;Ich brauche Hilfe.
+145;02 Verben I;používať;benutzen;Dnes si precvičujem sloveso „používať“.;Heute übe ich das Verb „benutzen“.
+146;02 Verben I;skúsiť;versuchen;Dnes si precvičujem sloveso „skúsiť“.;Heute übe ich das Verb „versuchen“.
+147;02 Verben I;začať;anfangen;Môžeme začať.;Wir können anfangen.
+148;02 Verben I;skončiť;beenden;Kedy skončíme?;Wann sind wir fertig?
+149;02 Verben I;pokračovať;weitermachen;Dnes si precvičujem sloveso „pokračovať“.;Heute übe ich das Verb „weitermachen“.
+150;02 Verben I;zmeniť;ändern;Dnes si precvičujem sloveso „zmeniť“.;Heute übe ich das Verb „ändern“.
+151;02 Verben I;vybrať;wählen/auswählen;Dnes si precvičujem sloveso „vybrať“.;Heute übe ich das Verb „wählen/auswählen“.
+152;02 Verben I;otvoriť;öffnen;Môžeš otvoriť okno?;Kannst du das Fenster öffnen?
+153;02 Verben I;zatvoriť;schließen;Prosím, zatvor dvere.;Bitte schließ die Tür.
+154;02 Verben I;zapnúť;einschalten;Dnes si precvičujem sloveso „zapnúť“.;Heute übe ich das Verb „einschalten“.
+155;02 Verben I;vypnúť;ausschalten;Dnes si precvičujem sloveso „vypnúť“.;Heute übe ich das Verb „ausschalten“.
+156;02 Verben I;sedieť;sitzen;Môžeme sedieť tu.;Wir können hier sitzen.
+157;02 Verben I;ležať;liegen;Dnes si precvičujem sloveso „ležať“.;Heute übe ich das Verb „liegen“.
+158;02 Verben I;spať;schlafen;Chcem spať.;Ich möchte schlafen.
+159;02 Verben I;zobudiť sa;aufwachen;Dnes si precvičujem sloveso „zobudiť sa“.;Heute übe ich das Verb „aufwachen“.
+160;02 Verben I;vstať;aufstehen;Dnes si precvičujem sloveso „vstať“.;Heute übe ich das Verb „aufstehen“.
+161;02 Verben I;žiť;leben;Dnes si precvičujem sloveso „žiť“.;Heute übe ich das Verb „leben“.
+162;02 Verben I;bývať;wohnen;Bývam v Rakúsku.;Ich wohne in Österreich.
+163;02 Verben I;pracovať;arbeiten;Dnes pracujem doma.;Heute arbeite ich zu Hause.
+164;02 Verben I;oddychovať;sich ausruhen;Dnes si precvičujem sloveso „oddychovať“.;Heute übe ich das Verb „sich ausruhen“.
+165;02 Verben I;pomáhať;helfen;Môžeš mi pomôcť?;Kannst du mir helfen?
+166;02 Verben I;chýbať;fehlen;Dnes si precvičujem sloveso „chýbať“.;Heute übe ich das Verb „fehlen“.
+167;02 Verben I;fungovať;funktionieren;Dnes si precvičujem sloveso „fungovať“.;Heute übe ich das Verb „funktionieren“.
+168;02 Verben I;znamenať;bedeuten;Čo to znamená?;Was bedeutet das?
+169;02 Verben I;ukázať;zeigen;Môžeš mi to ukázať?;Kannst du mir das zeigen?
+170;02 Verben I;vysvetliť;erklären;Môžeš mi to vysvetliť?;Kannst du mir das erklären?
+171;02 Verben I;opakovať;wiederholen;Môžeš to zopakovať?;Kannst du das wiederholen?
+172;02 Verben I;preložiť;übersetzen;Dnes si precvičujem sloveso „preložiť“.;Heute übe ich das Verb „übersetzen“.
+173;02 Verben I;pamätať;sich merken;Dnes si precvičujem sloveso „pamätať“.;Heute übe ich das Verb „sich merken“.
+174;02 Verben I;veriť;glauben;Verím ti.;Ich glaube dir.
+175;02 Verben I;dúfať;hoffen;Dnes si precvičujem sloveso „dúfať“.;Heute übe ich das Verb „hoffen“.
+176;02 Verben I;cítiť;fühlen;Cítim sa dobre.;Ich fühle mich gut.
+177;02 Verben I;milovať;lieben;Dnes si precvičujem sloveso „milovať“.;Heute übe ich das Verb „lieben“.
+178;02 Verben I;mať rád;mögen;Mám rád hudbu.;Ich mag Musik.
+179;02 Verben I;nenávidieť;hassen;Dnes si precvičujem sloveso „nenávidieť“.;Heute übe ich das Verb „hassen“.
+180;02 Verben I;báť sa;Angst haben;Dnes si precvičujem sloveso „báť sa“.;Heute übe ich das Verb „Angst haben“.
+181;02 Verben I;smiať sa;lachen;Dnes si precvičujem sloveso „smiať sa“.;Heute übe ich das Verb „lachen“.
+182;02 Verben I;plakať;weinen;Dnes si precvičujem sloveso „plakať“.;Heute übe ich das Verb „weinen“.
+183;02 Verben I;usmievať sa;lächeln;Dnes si precvičujem sloveso „usmievať sa“.;Heute übe ich das Verb „lächeln“.
+184;02 Verben I;tešiť sa;sich freuen;Teším sa na víkend.;Ich freue mich auf das Wochenende.
+185;02 Verben I;hnevať sa;sich ärgern;Dnes si precvičujem sloveso „hnevať sa“.;Heute übe ich das Verb „sich ärgern“.
+186;02 Verben I;súhlasiť;zustimmen;Súhlasím s tebou.;Ich stimme dir zu.
+187;02 Verben I;nesúhlasiť;nicht zustimmen;Dnes si precvičujem sloveso „nesúhlasiť“.;Heute übe ich das Verb „nicht zustimmen“.
+188;02 Verben I;rozhodnúť sa;sich entscheiden;Dnes si precvičujem sloveso „rozhodnúť sa“.;Heute übe ich das Verb „sich entscheiden“.
+189;02 Verben I;plánovať;planen;Dnes si precvičujem sloveso „plánovať“.;Heute übe ich das Verb „planen“.
+190;02 Verben I;zaujímať sa;sich interessieren;Dnes si precvičujem sloveso „zaujímať sa“.;Heute übe ich das Verb „sich interessieren“.
+191;02 Verben I;zdáť sa;scheinen;Dnes si precvičujem sloveso „zdáť sa“.;Heute übe ich das Verb „scheinen“.
+192;02 Verben I;vyzerať;aussehen;Dnes si precvičujem sloveso „vyzerať“.;Heute übe ich das Verb „aussehen“.
+193;02 Verben I;stať sa;werden/geschehen;Dnes si precvičujem sloveso „stať sa“.;Heute übe ich das Verb „werden/geschehen“.
+194;02 Verben I;zostať;bleiben;Chcem zostať doma.;Ich möchte zu Hause bleiben.
+195;02 Verben I;vrátiť sa;zurückkehren;Večer sa vrátim.;Am Abend komme ich zurück.
+196;02 Verben I;odísť;weggehen;Musím odísť.;Ich muss gehen.
+197;02 Verben I;prichádzať;ankommen/kommen;Dnes si precvičujem sloveso „prichádzať“.;Heute übe ich das Verb „ankommen/kommen“.
+198;02 Verben I;odchádzať;weggehen/abfahren;Dnes si precvičujem sloveso „odchádzať“.;Heute übe ich das Verb „weggehen/abfahren“.
+199;03 Verben II;jesť;essen;Chcem niečo jesť.;Ich möchte etwas essen.
+200;03 Verben II;piť;trinken;Chcem niečo piť.;Ich möchte etwas trinken.
+201;03 Verben II;variť;kochen;Dnes večer varím.;Heute Abend koche ich.
+202;03 Verben II;piecť;backen;Dnes si precvičujem sloveso „piecť“.;Heute übe ich das Verb „backen“.
+203;03 Verben II;objednať;bestellen;Chcem si objednať jedlo.;Ich möchte Essen bestellen.
+204;03 Verben II;ochutnať;probieren/kosten;Dnes si precvičujem sloveso „ochutnať“.;Heute übe ich das Verb „probieren/kosten“.
+205;03 Verben II;krájať;schneiden;Dnes si precvičujem sloveso „krájať“.;Heute übe ich das Verb „schneiden“.
+206;03 Verben II;umývať;waschen;Dnes si precvičujem sloveso „umývať“.;Heute übe ich das Verb „waschen“.
+207;03 Verben II;čistiť;reinigen;Dnes si precvičujem sloveso „čistiť“.;Heute übe ich das Verb „reinigen“.
+208;03 Verben II;upratovať;aufräumen;Dnes si precvičujem sloveso „upratovať“.;Heute übe ich das Verb „aufräumen“.
+209;03 Verben II;obliecť sa;sich anziehen;Dnes si precvičujem sloveso „obliecť sa“.;Heute übe ich das Verb „sich anziehen“.
+210;03 Verben II;vyzliecť sa;sich ausziehen;Dnes si precvičujem sloveso „vyzliecť sa“.;Heute übe ich das Verb „sich ausziehen“.
+211;03 Verben II;obuť sa;Schuhe anziehen;Dnes si precvičujem sloveso „obuť sa“.;Heute übe ich das Verb „Schuhe anziehen“.
+212;03 Verben II;sprchovať sa;duschen;Dnes si precvičujem sloveso „sprchovať sa“.;Heute übe ich das Verb „duschen“.
+213;03 Verben II;cestovať;reisen;Rád cestujem.;Ich reise gern.
+214;03 Verben II;jazdiť;fahren;Do práce jazdím bicyklom.;Ich fahre mit dem Fahrrad zur Arbeit.
+215;03 Verben II;šoférovať;Auto fahren;Dnes si precvičujem sloveso „šoférovať“.;Heute übe ich das Verb „Auto fahren“.
+216;03 Verben II;letieť;fliegen;Dnes si precvičujem sloveso „letieť“.;Heute übe ich das Verb „fliegen“.
+217;03 Verben II;plávať;schwimmen;V lete rád plávam.;Im Sommer schwimme ich gern.
+218;03 Verben II;bežať;laufen;Ráno rád behám.;Morgens laufe ich gern.
+219;03 Verben II;kráčať;gehen/laufen;Dnes si precvičujem sloveso „kráčať“.;Heute übe ich das Verb „gehen/laufen“.
+220;03 Verben II;prechádzať sa;spazieren;Dnes si precvičujem sloveso „prechádzať sa“.;Heute übe ich das Verb „spazieren“.
+221;03 Verben II;zastaviť;anhalten;Dnes si precvičujem sloveso „zastaviť“.;Heute übe ich das Verb „anhalten“.
+222;03 Verben II;nastúpiť;einsteigen;Dnes si precvičujem sloveso „nastúpiť“.;Heute übe ich das Verb „einsteigen“.
+223;03 Verben II;vystúpiť;aussteigen;Dnes si precvičujem sloveso „vystúpiť“.;Heute übe ich das Verb „aussteigen“.
+224;03 Verben II;prejsť;überqueren/durchgehen;Dnes si precvičujem sloveso „prejsť“.;Heute übe ich das Verb „überqueren/durchgehen“.
+225;03 Verben II;otočiť sa;sich umdrehen;Dnes si precvičujem sloveso „otočiť sa“.;Heute übe ich das Verb „sich umdrehen“.
+226;03 Verben II;vrátiť;zurückgeben;Dnes si precvičujem sloveso „vrátiť“.;Heute übe ich das Verb „zurückgeben“.
+227;03 Verben II;navštíviť;besuchen;Dnes si precvičujem sloveso „navštíviť“.;Heute übe ich das Verb „besuchen“.
+228;03 Verben II;rezervovať;reservieren;Dnes si precvičujem sloveso „rezervovať“.;Heute übe ich das Verb „reservieren“.
+229;03 Verben II;baliť;packen;Dnes si precvičujem sloveso „baliť“.;Heute übe ich das Verb „packen“.
+230;03 Verben II;fotiť;fotografieren;Rád fotím ľudí.;Ich fotografiere gern Menschen.
+231;03 Verben II;filmovať;filmen;Dnes si precvičujem sloveso „filmovať“.;Heute übe ich das Verb „filmen“.
+232;03 Verben II;kresliť;zeichnen;Každý deň trochu kreslím.;Jeden Tag zeichne ich ein bisschen.
+233;03 Verben II;maľovať;malen;Dnes si precvičujem sloveso „maľovať“.;Heute übe ich das Verb „malen“.
+234;03 Verben II;navrhovať;entwerfen;Dnes si precvičujem sloveso „navrhovať“.;Heute übe ich das Verb „entwerfen“.
+235;03 Verben II;tvoriť;erschaffen;Chcem niečo tvoriť.;Ich möchte etwas erschaffen.
+236;03 Verben II;hrať;spielen;Rád hrám hudbu.;Ich mache/spiele gern Musik.
+237;03 Verben II;spievať;singen;Dnes si precvičujem sloveso „spievať“.;Heute übe ich das Verb „singen“.
+238;03 Verben II;tancovať;tanzen;Dnes si precvičujem sloveso „tancovať“.;Heute übe ich das Verb „tanzen“.
+239;03 Verben II;cvičiť;trainieren;Dnes idem cvičiť.;Heute gehe ich trainieren.
+240;03 Verben II;liezť;klettern;Dnes si precvičujem sloveso „liezť“.;Heute übe ich das Verb „klettern“.
+241;03 Verben II;bicyklovať;Rad fahren;Dnes si precvičujem sloveso „bicyklovať“.;Heute übe ich das Verb „Rad fahren“.
+242;03 Verben II;lyžovať;Ski fahren;Dnes si precvičujem sloveso „lyžovať“.;Heute übe ich das Verb „Ski fahren“.
+243;03 Verben II;pozvať;einladen;Chcem ťa pozvať na kávu.;Ich möchte dich auf einen Kaffee einladen.
+244;03 Verben II;oslavovať;feiern;Dnes si precvičujem sloveso „oslavovať“.;Heute übe ich das Verb „feiern“.
+245;03 Verben II;darovať;schenken;Dnes si precvičujem sloveso „darovať“.;Heute übe ich das Verb „schenken“.
+246;03 Verben II;poslať;senden;Pošlem ti správu.;Ich schicke dir eine Nachricht.
+247;03 Verben II;prijať;annehmen/empfangen;Dnes si precvičujem sloveso „prijať“.;Heute übe ich das Verb „annehmen/empfangen“.
+248;03 Verben II;zdieľať;teilen;Dnes si precvičujem sloveso „zdieľať“.;Heute übe ich das Verb „teilen“.
+249;03 Verben II;stiahnuť;herunterladen;Dnes si precvičujem sloveso „stiahnuť“.;Heute übe ich das Verb „herunterladen“.
+250;03 Verben II;nahrať;hochladen/aufnehmen;Dnes si precvičujem sloveso „nahrať“.;Heute übe ich das Verb „hochladen/aufnehmen“.
+251;03 Verben II;uložiť;speichern;Nezabudni súbor uložiť.;Vergiss nicht, die Datei zu speichern.
+252;03 Verben II;vymazať;löschen;Dnes si precvičujem sloveso „vymazať“.;Heute übe ich das Verb „löschen“.
+253;03 Verben II;kliknúť;klicken;Dnes si precvičujem sloveso „kliknúť“.;Heute übe ich das Verb „klicken“.
+254;03 Verben II;tlačiť;drücken/drucken;Dnes si precvičujem sloveso „tlačiť“.;Heute übe ich das Verb „drücken/drucken“.
+255;03 Verben II;ťahať;ziehen;Dnes si precvičujem sloveso „ťahať“.;Heute übe ich das Verb „ziehen“.
+256;03 Verben II;držať;halten;Dnes si precvičujem sloveso „držať“.;Heute übe ich das Verb „halten“.
+257;03 Verben II;pustiť;loslassen;Dnes si precvičujem sloveso „pustiť“.;Heute übe ich das Verb „loslassen“.
+258;03 Verben II;zlomiť;brechen;Dnes si precvičujem sloveso „zlomiť“.;Heute übe ich das Verb „brechen“.
+259;03 Verben II;opraviť;reparieren;Musím to opraviť.;Ich muss das reparieren.
+260;03 Verben II;postaviť;bauen/aufstellen;Dnes si precvičujem sloveso „postaviť“.;Heute übe ich das Verb „bauen/aufstellen“.
+261;03 Verben II;vytvoriť;erstellen;Dnes si precvičujem sloveso „vytvoriť“.;Heute übe ich das Verb „erstellen“.
+262;03 Verben II;merať;messen;Dnes si precvičujem sloveso „merať“.;Heute übe ich das Verb „messen“.
+263;03 Verben II;vážiť;wiegen;Dnes si precvičujem sloveso „vážiť“.;Heute übe ich das Verb „wiegen“.
+264;03 Verben II;rásť;wachsen;Dnes si precvičujem sloveso „rásť“.;Heute übe ich das Verb „wachsen“.
+265;03 Verben II;klesať;sinken;Dnes si precvičujem sloveso „klesať“.;Heute übe ich das Verb „sinken“.
+266;03 Verben II;zvýšiť;erhöhen;Dnes si precvičujem sloveso „zvýšiť“.;Heute übe ich das Verb „erhöhen“.
+267;03 Verben II;znížiť;senken;Dnes si precvičujem sloveso „znížiť“.;Heute übe ich das Verb „senken“.
+268;03 Verben II;vyhrať;gewinnen;Dnes si precvičujem sloveso „vyhrať“.;Heute übe ich das Verb „gewinnen“.
+269;03 Verben II;prehrať;verlieren;Dnes si precvičujem sloveso „prehrať“.;Heute übe ich das Verb „verlieren“.
+270;03 Verben II;zaplatiť;bezahlen;Dnes si precvičujem sloveso „zaplatiť“.;Heute übe ich das Verb „bezahlen“.
+271;03 Verben II;požičať;leihen;Dnes si precvičujem sloveso „požičať“.;Heute übe ich das Verb „leihen“.
+272;03 Verben II;ušetriť;sparen;Dnes si precvičujem sloveso „ušetriť“.;Heute übe ich das Verb „sparen“.
+273;03 Verben II;minúť;ausgeben/verbrauchen;Dnes si precvičujem sloveso „minúť“.;Heute übe ich das Verb „ausgeben/verbrauchen“.
+274;03 Verben II;zarobiť;verdienen;Dnes si precvičujem sloveso „zarobiť“.;Heute übe ich das Verb „verdienen“.
+275;03 Verben II;študovať;studieren;Študujem dizajn.;Ich studiere Design.
+276;03 Verben II;trénovať;trainieren;Dnes si precvičujem sloveso „trénovať“.;Heute übe ich das Verb „trainieren“.
+277;03 Verben II;precvičovať;üben;Dnes si precvičujem sloveso „precvičovať“.;Heute übe ich das Verb „üben“.
+278;03 Verben II;skontrolovať;kontrollieren;Dnes si precvičujem sloveso „skontrolovať“.;Heute übe ich das Verb „kontrollieren“.
+279;03 Verben II;porovnať;vergleichen;Chcem porovnať dve možnosti.;Ich möchte zwei Möglichkeiten vergleichen.
+280;03 Verben II;vybrať si;sich aussuchen;Dnes si precvičujem sloveso „vybrať si“.;Heute übe ich das Verb „sich aussuchen“.
+281;03 Verben II;pripraviť;vorbereiten;Musím sa pripraviť.;Ich muss mich vorbereiten.
+282;03 Verben II;dokončiť;fertigstellen;Dnes si precvičujem sloveso „dokončiť“.;Heute übe ich das Verb „fertigstellen“.
+283;03 Verben II;zlepšiť;verbessern;Chcem zlepšiť svoju slovenčinu.;Ich möchte mein Slowakisch verbessern.
+284;03 Verben II;zhoršiť;verschlechtern;Dnes si precvičujem sloveso „zhoršiť“.;Heute übe ich das Verb „verschlechtern“.
+285;03 Verben II;rasti;wachsen;Dnes si precvičujem sloveso „rasti“.;Heute übe ich das Verb „wachsen“.
+286;03 Verben II;klesnúť;sinken;Dnes si precvičujem sloveso „klesnúť“.;Heute übe ich das Verb „sinken“.
+287;03 Verben II;meniť;ändern;Dnes si precvičujem sloveso „meniť“.;Heute übe ich das Verb „ändern“.
+288;03 Verben II;spojiť;verbinden;Dnes si precvičujem sloveso „spojiť“.;Heute übe ich das Verb „verbinden“.
+289;03 Verben II;oddeliť;trennen;Dnes si precvičujem sloveso „oddeliť“.;Heute übe ich das Verb „trennen“.
+290;03 Verben II;zapamätať si;sich merken;Dnes si precvičujem sloveso „zapamätať si“.;Heute übe ich das Verb „sich merken“.
+291;03 Verben II;zabávať sa;Spaß haben;Dnes si precvičujem sloveso „zabávať sa“.;Heute übe ich das Verb „Spaß haben“.
+292;03 Verben II;ponáhľať sa;sich beeilen;Ponáhľam sa do práce.;Ich beeile mich zur Arbeit.
+293;03 Verben II;meškať;zu spät sein;Prepáč, meškám.;Entschuldige, ich bin spät dran.
+294;03 Verben II;stihnúť;rechtzeitig schaffen;Dnes si precvičujem sloveso „stihnúť“.;Heute übe ich das Verb „rechtzeitig schaffen“.
+295;04 Menschen & Familie;človek;Mensch;Dnes si zapamätám slovo „človek“.;Heute merke ich mir das Wort „Mensch“.
+296;04 Menschen & Familie;ľudia;Menschen;Dnes si zapamätám slovo „ľudia“.;Heute merke ich mir das Wort „Menschen“.
+297;04 Menschen & Familie;muž;Mann;Dnes si zapamätám slovo „muž“.;Heute merke ich mir das Wort „Mann“.
+298;04 Menschen & Familie;žena;Frau;Dnes si zapamätám slovo „žena“.;Heute merke ich mir das Wort „Frau“.
+299;04 Menschen & Familie;chlapec;Junge;Dnes si zapamätám slovo „chlapec“.;Heute merke ich mir das Wort „Junge“.
+300;04 Menschen & Familie;dievča;Mädchen;Dnes si zapamätám slovo „dievča“.;Heute merke ich mir das Wort „Mädchen“.
+301;04 Menschen & Familie;dieťa;Kind;Dnes si zapamätám slovo „dieťa“.;Heute merke ich mir das Wort „Kind“.
+302;04 Menschen & Familie;deti;Kinder;Dnes si zapamätám slovo „deti“.;Heute merke ich mir das Wort „Kinder“.
+303;04 Menschen & Familie;rodina;Familie;Dnes si zapamätám slovo „rodina“.;Heute merke ich mir das Wort „Familie“.
+304;04 Menschen & Familie;rodičia;Eltern;Dnes si zapamätám slovo „rodičia“.;Heute merke ich mir das Wort „Eltern“.
+305;04 Menschen & Familie;mama;Mama;Dnes si zapamätám slovo „mama“.;Heute merke ich mir das Wort „Mama“.
+306;04 Menschen & Familie;matka;Mutter;Dnes si zapamätám slovo „matka“.;Heute merke ich mir das Wort „Mutter“.
+307;04 Menschen & Familie;otec;Vater;Dnes si zapamätám slovo „otec“.;Heute merke ich mir das Wort „Vater“.
+308;04 Menschen & Familie;tato;Papa;Dnes si zapamätám slovo „tato“.;Heute merke ich mir das Wort „Papa“.
+309;04 Menschen & Familie;syn;Sohn;Dnes si zapamätám slovo „syn“.;Heute merke ich mir das Wort „Sohn“.
+310;04 Menschen & Familie;dcéra;Tochter;Dnes si zapamätám slovo „dcéra“.;Heute merke ich mir das Wort „Tochter“.
+311;04 Menschen & Familie;brat;Bruder;Dnes si zapamätám slovo „brat“.;Heute merke ich mir das Wort „Bruder“.
+312;04 Menschen & Familie;sestra;Schwester;Dnes si zapamätám slovo „sestra“.;Heute merke ich mir das Wort „Schwester“.
+313;04 Menschen & Familie;starý otec;Großvater;Dnes si zapamätám slovo „starý otec“.;Heute merke ich mir das Wort „Großvater“.
+314;04 Menschen & Familie;stará mama;Großmutter;Dnes si zapamätám slovo „stará mama“.;Heute merke ich mir das Wort „Großmutter“.
+315;04 Menschen & Familie;dedko;Opa;Dnes si zapamätám slovo „dedko“.;Heute merke ich mir das Wort „Opa“.
+316;04 Menschen & Familie;babka;Oma;Dnes si zapamätám slovo „babka“.;Heute merke ich mir das Wort „Oma“.
+317;04 Menschen & Familie;strýko;Onkel;Dnes si zapamätám slovo „strýko“.;Heute merke ich mir das Wort „Onkel“.
+318;04 Menschen & Familie;teta;Tante;Dnes si zapamätám slovo „teta“.;Heute merke ich mir das Wort „Tante“.
+319;04 Menschen & Familie;bratranec;Cousin;Dnes si zapamätám slovo „bratranec“.;Heute merke ich mir das Wort „Cousin“.
+320;04 Menschen & Familie;sesternica;Cousine;Dnes si zapamätám slovo „sesternica“.;Heute merke ich mir das Wort „Cousine“.
+321;04 Menschen & Familie;partner;Partner;Dnes si zapamätám slovo „partner“.;Heute merke ich mir das Wort „Partner“.
+322;04 Menschen & Familie;partnerka;Partnerin;Dnes si zapamätám slovo „partnerka“.;Heute merke ich mir das Wort „Partnerin“.
+323;04 Menschen & Familie;priateľ;Freund;Dnes si zapamätám slovo „priateľ“.;Heute merke ich mir das Wort „Freund“.
+324;04 Menschen & Familie;priateľka;Freundin;Dnes si zapamätám slovo „priateľka“.;Heute merke ich mir das Wort „Freundin“.
+325;04 Menschen & Familie;kamarát;Freund/Kumpel;Dnes si zapamätám slovo „kamarát“.;Heute merke ich mir das Wort „Freund/Kumpel“.
+326;04 Menschen & Familie;kamarátka;Freundin;Dnes si zapamätám slovo „kamarátka“.;Heute merke ich mir das Wort „Freundin“.
+327;04 Menschen & Familie;sused;Nachbar;Dnes si zapamätám slovo „sused“.;Heute merke ich mir das Wort „Nachbar“.
+328;04 Menschen & Familie;suseda;Nachbarin;Dnes si zapamätám slovo „suseda“.;Heute merke ich mir das Wort „Nachbarin“.
+329;04 Menschen & Familie;kolega;Kollege;Dnes si zapamätám slovo „kolega“.;Heute merke ich mir das Wort „Kollege“.
+330;04 Menschen & Familie;kolegyňa;Kollegin;Dnes si zapamätám slovo „kolegyňa“.;Heute merke ich mir das Wort „Kollegin“.
+331;04 Menschen & Familie;šéf;Chef;Dnes si zapamätám slovo „šéf“.;Heute merke ich mir das Wort „Chef“.
+332;04 Menschen & Familie;šéfka;Chefin;Dnes si zapamätám slovo „šéfka“.;Heute merke ich mir das Wort „Chefin“.
+333;04 Menschen & Familie;učiteľ;Lehrer;Dnes si zapamätám slovo „učiteľ“.;Heute merke ich mir das Wort „Lehrer“.
+334;04 Menschen & Familie;učiteľka;Lehrerin;Dnes si zapamätám slovo „učiteľka“.;Heute merke ich mir das Wort „Lehrerin“.
+335;04 Menschen & Familie;študent;Student;Dnes si zapamätám slovo „študent“.;Heute merke ich mir das Wort „Student“.
+336;04 Menschen & Familie;študentka;Studentin;Dnes si zapamätám slovo „študentka“.;Heute merke ich mir das Wort „Studentin“.
+337;04 Menschen & Familie;zákazník;Kunde;Dnes si zapamätám slovo „zákazník“.;Heute merke ich mir das Wort „Kunde“.
+338;04 Menschen & Familie;hosť;Gast;Dnes si zapamätám slovo „hosť“.;Heute merke ich mir das Wort „Gast“.
+339;04 Menschen & Familie;cudzinec;Ausländer/Fremder;Dnes si zapamätám slovo „cudzinec“.;Heute merke ich mir das Wort „Ausländer/Fremder“.
+340;04 Menschen & Familie;Slovák;Slowake;Dnes si zapamätám slovo „Slovák“.;Heute merke ich mir das Wort „Slowake“.
+341;04 Menschen & Familie;Slovenka;Slowakin;Dnes si zapamätám slovo „Slovenka“.;Heute merke ich mir das Wort „Slowakin“.
+342;04 Menschen & Familie;Nemec;Deutscher;Dnes si zapamätám slovo „Nemec“.;Heute merke ich mir das Wort „Deutscher“.
+343;04 Menschen & Familie;Nemka;Deutsche;Dnes si zapamätám slovo „Nemka“.;Heute merke ich mir das Wort „Deutsche“.
+344;04 Menschen & Familie;Rakúšan;Österreicher;Dnes si zapamätám slovo „Rakúšan“.;Heute merke ich mir das Wort „Österreicher“.
+345;04 Menschen & Familie;Rakúšanka;Österreicherin;Dnes si zapamätám slovo „Rakúšanka“.;Heute merke ich mir das Wort „Österreicherin“.
+346;04 Menschen & Familie;meno;Name;Dnes si zapamätám slovo „meno“.;Heute merke ich mir das Wort „Name“.
+347;04 Menschen & Familie;priezvisko;Nachname;Dnes si zapamätám slovo „priezvisko“.;Heute merke ich mir das Wort „Nachname“.
+348;04 Menschen & Familie;vek;Alter;Dnes si zapamätám slovo „vek“.;Heute merke ich mir das Wort „Alter“.
+349;04 Menschen & Familie;narodeniny;Geburtstag;Dnes si zapamätám slovo „narodeniny“.;Heute merke ich mir das Wort „Geburtstag“.
+350;04 Menschen & Familie;svadba;Hochzeit;Dnes si zapamätám slovo „svadba“.;Heute merke ich mir das Wort „Hochzeit“.
+351;04 Menschen & Familie;manžel;Ehemann;Dnes si zapamätám slovo „manžel“.;Heute merke ich mir das Wort „Ehemann“.
+352;04 Menschen & Familie;manželka;Ehefrau;Dnes si zapamätám slovo „manželka“.;Heute merke ich mir das Wort „Ehefrau“.
+353;04 Menschen & Familie;pár;Paar;Dnes si zapamätám slovo „pár“.;Heute merke ich mir das Wort „Paar“.
+354;04 Menschen & Familie;vzťah;Beziehung;Dnes si zapamätám slovo „vzťah“.;Heute merke ich mir das Wort „Beziehung“.
+355;04 Menschen & Familie;láska;Liebe;Dnes si zapamätám slovo „láska“.;Heute merke ich mir das Wort „Liebe“.
+356;04 Menschen & Familie;priateľstvo;Freundschaft;Dnes si zapamätám slovo „priateľstvo“.;Heute merke ich mir das Wort „Freundschaft“.
+357;04 Menschen & Familie;návšteva;Besuch;Dnes si zapamätám slovo „návšteva“.;Heute merke ich mir das Wort „Besuch“.
+358;04 Menschen & Familie;stretnutie;Treffen;Dnes si zapamätám slovo „stretnutie“.;Heute merke ich mir das Wort „Treffen“.
+359;04 Menschen & Familie;rozhovor;Gespräch;Dnes si zapamätám slovo „rozhovor“.;Heute merke ich mir das Wort „Gespräch“.
+360;04 Menschen & Familie;otázka;Frage;Dnes si zapamätám slovo „otázka“.;Heute merke ich mir das Wort „Frage“.
+361;04 Menschen & Familie;odpoveď;Antwort;Dnes si zapamätám slovo „odpoveď“.;Heute merke ich mir das Wort „Antwort“.
+362;04 Menschen & Familie;názor;Meinung;Dnes si zapamätám slovo „názor“.;Heute merke ich mir das Wort „Meinung“.
+363;04 Menschen & Familie;problém;Problem;Dnes si zapamätám slovo „problém“.;Heute merke ich mir das Wort „Problem“.
+364;04 Menschen & Familie;pomoc;Hilfe;Dnes si zapamätám slovo „pomoc“.;Heute merke ich mir das Wort „Hilfe“.
+365;04 Menschen & Familie;nápad;Idee;Dnes si zapamätám slovo „nápad“.;Heute merke ich mir das Wort „Idee“.
+366;04 Menschen & Familie;príbeh;Geschichte;Dnes si zapamätám slovo „príbeh“.;Heute merke ich mir das Wort „Geschichte“.
+367;04 Menschen & Familie;správa;Nachricht;Dnes si zapamätám slovo „správa“.;Heute merke ich mir das Wort „Nachricht“.
+368;04 Menschen & Familie;vtip;Witz;Dnes si zapamätám slovo „vtip“.;Heute merke ich mir das Wort „Witz“.
+369;04 Menschen & Familie;hlas;Stimme;Dnes si zapamätám slovo „hlas“.;Heute merke ich mir das Wort „Stimme“.
+370;04 Menschen & Familie;tvár;Gesicht;Dnes si zapamätám slovo „tvár“.;Heute merke ich mir das Wort „Gesicht“.
+371;04 Menschen & Familie;oko;Auge;Dnes si zapamätám slovo „oko“.;Heute merke ich mir das Wort „Auge“.
+372;04 Menschen & Familie;oči;Augen;Dnes si zapamätám slovo „oči“.;Heute merke ich mir das Wort „Augen“.
+373;04 Menschen & Familie;ucho;Ohr;Dnes si zapamätám slovo „ucho“.;Heute merke ich mir das Wort „Ohr“.
+374;04 Menschen & Familie;nos;Nase;Dnes si zapamätám slovo „nos“.;Heute merke ich mir das Wort „Nase“.
+375;04 Menschen & Familie;ústa;Mund;Dnes si zapamätám slovo „ústa“.;Heute merke ich mir das Wort „Mund“.
+376;04 Menschen & Familie;zub;Zahn;Dnes si zapamätám slovo „zub“.;Heute merke ich mir das Wort „Zahn“.
+377;04 Menschen & Familie;vlasy;Haare;Dnes si zapamätám slovo „vlasy“.;Heute merke ich mir das Wort „Haare“.
+378;04 Menschen & Familie;hlava;Kopf;Dnes si zapamätám slovo „hlava“.;Heute merke ich mir das Wort „Kopf“.
+379;04 Menschen & Familie;ruka;Hand/Arm;Dnes si zapamätám slovo „ruka“.;Heute merke ich mir das Wort „Hand/Arm“.
+380;04 Menschen & Familie;prst;Finger;Dnes si zapamätám slovo „prst“.;Heute merke ich mir das Wort „Finger“.
+381;04 Menschen & Familie;noha;Bein/Fuß;Dnes si zapamätám slovo „noha“.;Heute merke ich mir das Wort „Bein/Fuß“.
+382;04 Menschen & Familie;srdce;Herz;Dnes si zapamätám slovo „srdce“.;Heute merke ich mir das Wort „Herz“.
+383;04 Menschen & Familie;telo;Körper;Dnes si zapamätám slovo „telo“.;Heute merke ich mir das Wort „Körper“.
+384;04 Menschen & Familie;zdravie;Gesundheit;Dnes si zapamätám slovo „zdravie“.;Heute merke ich mir das Wort „Gesundheit“.
+385;04 Menschen & Familie;život;Leben;Dnes si zapamätám slovo „život“.;Heute merke ich mir das Wort „Leben“.
+386;04 Menschen & Familie;smrť;Tod;Dnes si zapamätám slovo „smrť“.;Heute merke ich mir das Wort „Tod“.
+387;04 Menschen & Familie;adresa;Adresse;Dnes si zapamätám slovo „adresa“.;Heute merke ich mir das Wort „Adresse“.
+388;04 Menschen & Familie;telefón;Telefon;Dnes si zapamätám slovo „telefón“.;Heute merke ich mir das Wort „Telefon“.
+389;04 Menschen & Familie;kontakt;Kontakt;Dnes si zapamätám slovo „kontakt“.;Heute merke ich mir das Wort „Kontakt“.
+390;04 Menschen & Familie;skupina;Gruppe;Dnes si zapamätám slovo „skupina“.;Heute merke ich mir das Wort „Gruppe“.
+391;04 Menschen & Familie;tím;Team;Dnes si zapamätám slovo „tím“.;Heute merke ich mir das Wort „Team“.
+392;05 Essen & Trinken;jedlo;Essen;Dnes si zapamätám slovo „jedlo“.;Heute merke ich mir das Wort „Essen“.
+393;05 Essen & Trinken;nápoj;Getränk;Dnes si zapamätám slovo „nápoj“.;Heute merke ich mir das Wort „Getränk“.
+394;05 Essen & Trinken;voda;Wasser;Dnes si zapamätám slovo „voda“.;Heute merke ich mir das Wort „Wasser“.
+395;05 Essen & Trinken;káva;Kaffee;Dnes si zapamätám slovo „káva“.;Heute merke ich mir das Wort „Kaffee“.
+396;05 Essen & Trinken;čaj;Tee;Dnes si zapamätám slovo „čaj“.;Heute merke ich mir das Wort „Tee“.
+397;05 Essen & Trinken;mlieko;Milch;Dnes si zapamätám slovo „mlieko“.;Heute merke ich mir das Wort „Milch“.
+398;05 Essen & Trinken;džús;Saft;Dnes si zapamätám slovo „džús“.;Heute merke ich mir das Wort „Saft“.
+399;05 Essen & Trinken;pivo;Bier;Dnes si zapamätám slovo „pivo“.;Heute merke ich mir das Wort „Bier“.
+400;05 Essen & Trinken;víno;Wein;Dnes si zapamätám slovo „víno“.;Heute merke ich mir das Wort „Wein“.
+401;05 Essen & Trinken;raňajky;Frühstück;Dnes si zapamätám slovo „raňajky“.;Heute merke ich mir das Wort „Frühstück“.
+402;05 Essen & Trinken;obed;Mittagessen;Dnes si zapamätám slovo „obed“.;Heute merke ich mir das Wort „Mittagessen“.
+403;05 Essen & Trinken;večera;Abendessen;Dnes si zapamätám slovo „večera“.;Heute merke ich mir das Wort „Abendessen“.
+404;05 Essen & Trinken;chlieb;Brot;Dnes si zapamätám slovo „chlieb“.;Heute merke ich mir das Wort „Brot“.
+405;05 Essen & Trinken;rožok;Brötchen;Dnes si zapamätám slovo „rožok“.;Heute merke ich mir das Wort „Brötchen“.
+406;05 Essen & Trinken;maslo;Butter;Dnes si zapamätám slovo „maslo“.;Heute merke ich mir das Wort „Butter“.
+407;05 Essen & Trinken;syr;Käse;Dnes si zapamätám slovo „syr“.;Heute merke ich mir das Wort „Käse“.
+408;05 Essen & Trinken;vajce;Ei;Dnes si zapamätám slovo „vajce“.;Heute merke ich mir das Wort „Ei“.
+409;05 Essen & Trinken;mäso;Fleisch;Dnes si zapamätám slovo „mäso“.;Heute merke ich mir das Wort „Fleisch“.
+410;05 Essen & Trinken;kurča;Huhn;Dnes si zapamätám slovo „kurča“.;Heute merke ich mir das Wort „Huhn“.
+411;05 Essen & Trinken;kura;Hähnchen;Dnes si zapamätám slovo „kura“.;Heute merke ich mir das Wort „Hähnchen“.
+412;05 Essen & Trinken;hovädzie;Rindfleisch;Dnes si zapamätám slovo „hovädzie“.;Heute merke ich mir das Wort „Rindfleisch“.
+413;05 Essen & Trinken;bravčové;Schweinefleisch;Dnes si zapamätám slovo „bravčové“.;Heute merke ich mir das Wort „Schweinefleisch“.
+414;05 Essen & Trinken;ryba;Fisch;Dnes si zapamätám slovo „ryba“.;Heute merke ich mir das Wort „Fisch“.
+415;05 Essen & Trinken;šunka;Schinken;Dnes si zapamätám slovo „šunka“.;Heute merke ich mir das Wort „Schinken“.
+416;05 Essen & Trinken;klobása;Wurst;Dnes si zapamätám slovo „klobása“.;Heute merke ich mir das Wort „Wurst“.
+417;05 Essen & Trinken;ryža;Reis;Dnes si zapamätám slovo „ryža“.;Heute merke ich mir das Wort „Reis“.
+418;05 Essen & Trinken;cestoviny;Nudeln;Dnes si zapamätám slovo „cestoviny“.;Heute merke ich mir das Wort „Nudeln“.
+419;05 Essen & Trinken;zemiak;Kartoffel;Dnes si zapamätám slovo „zemiak“.;Heute merke ich mir das Wort „Kartoffel“.
+420;05 Essen & Trinken;polievka;Suppe;Dnes si zapamätám slovo „polievka“.;Heute merke ich mir das Wort „Suppe“.
+421;05 Essen & Trinken;šalát;Salat;Dnes si zapamätám slovo „šalát“.;Heute merke ich mir das Wort „Salat“.
+422;05 Essen & Trinken;zelenina;Gemüse;Dnes si zapamätám slovo „zelenina“.;Heute merke ich mir das Wort „Gemüse“.
+423;05 Essen & Trinken;ovocie;Obst;Dnes si zapamätám slovo „ovocie“.;Heute merke ich mir das Wort „Obst“.
+424;05 Essen & Trinken;jablko;Apfel;Dnes si zapamätám slovo „jablko“.;Heute merke ich mir das Wort „Apfel“.
+425;05 Essen & Trinken;hruška;Birne;Dnes si zapamätám slovo „hruška“.;Heute merke ich mir das Wort „Birne“.
+426;05 Essen & Trinken;banán;Banane;Dnes si zapamätám slovo „banán“.;Heute merke ich mir das Wort „Banane“.
+427;05 Essen & Trinken;pomaranč;Orange;Dnes si zapamätám slovo „pomaranč“.;Heute merke ich mir das Wort „Orange“.
+428;05 Essen & Trinken;citrón;Zitrone;Dnes si zapamätám slovo „citrón“.;Heute merke ich mir das Wort „Zitrone“.
+429;05 Essen & Trinken;jahoda;Erdbeere;Dnes si zapamätám slovo „jahoda“.;Heute merke ich mir das Wort „Erdbeere“.
+430;05 Essen & Trinken;hrozno;Trauben;Dnes si zapamätám slovo „hrozno“.;Heute merke ich mir das Wort „Trauben“.
+431;05 Essen & Trinken;paradajka;Tomate;Dnes si zapamätám slovo „paradajka“.;Heute merke ich mir das Wort „Tomate“.
+432;05 Essen & Trinken;uhorka;Gurke;Dnes si zapamätám slovo „uhorka“.;Heute merke ich mir das Wort „Gurke“.
+433;05 Essen & Trinken;paprika;Paprika;Dnes si zapamätám slovo „paprika“.;Heute merke ich mir das Wort „Paprika“.
+434;05 Essen & Trinken;cibuľa;Zwiebel;Dnes si zapamätám slovo „cibuľa“.;Heute merke ich mir das Wort „Zwiebel“.
+435;05 Essen & Trinken;cesnak;Knoblauch;Dnes si zapamätám slovo „cesnak“.;Heute merke ich mir das Wort „Knoblauch“.
+436;05 Essen & Trinken;mrkva;Karotte;Dnes si zapamätám slovo „mrkva“.;Heute merke ich mir das Wort „Karotte“.
+437;05 Essen & Trinken;kapusta;Kohl;Dnes si zapamätám slovo „kapusta“.;Heute merke ich mir das Wort „Kohl“.
+438;05 Essen & Trinken;huba;Pilz;Dnes si zapamätám slovo „huba“.;Heute merke ich mir das Wort „Pilz“.
+439;05 Essen & Trinken;cukor;Zucker;Dnes si zapamätám slovo „cukor“.;Heute merke ich mir das Wort „Zucker“.
+440;05 Essen & Trinken;soľ;Salz;Dnes si zapamätám slovo „soľ“.;Heute merke ich mir das Wort „Salz“.
+441;05 Essen & Trinken;korenie;Gewürz/Pfeffer;Dnes si zapamätám slovo „korenie“.;Heute merke ich mir das Wort „Gewürz/Pfeffer“.
+442;05 Essen & Trinken;olej;Öl;Dnes si zapamätám slovo „olej“.;Heute merke ich mir das Wort „Öl“.
+443;05 Essen & Trinken;ocot;Essig;Dnes si zapamätám slovo „ocot“.;Heute merke ich mir das Wort „Essig“.
+444;05 Essen & Trinken;múka;Mehl;Dnes si zapamätám slovo „múka“.;Heute merke ich mir das Wort „Mehl“.
+445;05 Essen & Trinken;koláč;Kuchen;Dnes si zapamätám slovo „koláč“.;Heute merke ich mir das Wort „Kuchen“.
+446;05 Essen & Trinken;čokoláda;Schokolade;Dnes si zapamätám slovo „čokoláda“.;Heute merke ich mir das Wort „Schokolade“.
+447;05 Essen & Trinken;zmrzlina;Eis;Dnes si zapamätám slovo „zmrzlina“.;Heute merke ich mir das Wort „Eis“.
+448;05 Essen & Trinken;dezert;Dessert;Dnes si zapamätám slovo „dezert“.;Heute merke ich mir das Wort „Dessert“.
+449;05 Essen & Trinken;porcia;Portion;Dnes si zapamätám slovo „porcia“.;Heute merke ich mir das Wort „Portion“.
+450;05 Essen & Trinken;tanier;Teller;Dnes si zapamätám slovo „tanier“.;Heute merke ich mir das Wort „Teller“.
+451;05 Essen & Trinken;miska;Schüssel;Dnes si zapamätám slovo „miska“.;Heute merke ich mir das Wort „Schüssel“.
+452;05 Essen & Trinken;pohár;Glas;Dnes si zapamätám slovo „pohár“.;Heute merke ich mir das Wort „Glas“.
+453;05 Essen & Trinken;šálka;Tasse;Dnes si zapamätám slovo „šálka“.;Heute merke ich mir das Wort „Tasse“.
+454;05 Essen & Trinken;fľaša;Flasche;Dnes si zapamätám slovo „fľaša“.;Heute merke ich mir das Wort „Flasche“.
+455;05 Essen & Trinken;lyžica;Löffel;Dnes si zapamätám slovo „lyžica“.;Heute merke ich mir das Wort „Löffel“.
+456;05 Essen & Trinken;vidlička;Gabel;Dnes si zapamätám slovo „vidlička“.;Heute merke ich mir das Wort „Gabel“.
+457;05 Essen & Trinken;nôž;Messer;Dnes si zapamätám slovo „nôž“.;Heute merke ich mir das Wort „Messer“.
+458;05 Essen & Trinken;obrúsok;Serviette;Dnes si zapamätám slovo „obrúsok“.;Heute merke ich mir das Wort „Serviette“.
+459;05 Essen & Trinken;stôl;Tisch;Dnes si zapamätám slovo „stôl“.;Heute merke ich mir das Wort „Tisch“.
+460;05 Essen & Trinken;menu;Speisekarte;Dnes si zapamätám slovo „menu“.;Heute merke ich mir das Wort „Speisekarte“.
+461;05 Essen & Trinken;účet;Rechnung;Dnes si zapamätám slovo „účet“.;Heute merke ich mir das Wort „Rechnung“.
+462;05 Essen & Trinken;reštaurácia;Restaurant;Dnes si zapamätám slovo „reštaurácia“.;Heute merke ich mir das Wort „Restaurant“.
+463;05 Essen & Trinken;kaviareň;Café;Dnes si zapamätám slovo „kaviareň“.;Heute merke ich mir das Wort „Café“.
+464;05 Essen & Trinken;bar;Bar;Dnes si zapamätám slovo „bar“.;Heute merke ich mir das Wort „Bar“.
+465;05 Essen & Trinken;pekáreň;Bäckerei;Dnes si zapamätám slovo „pekáreň“.;Heute merke ich mir das Wort „Bäckerei“.
+466;05 Essen & Trinken;obchod;Geschäft;Dnes si zapamätám slovo „obchod“.;Heute merke ich mir das Wort „Geschäft“.
+467;05 Essen & Trinken;trh;Markt;Dnes si zapamätám slovo „trh“.;Heute merke ich mir das Wort „Markt“.
+468;05 Essen & Trinken;hlad;Hunger;Dnes si zapamätám slovo „hlad“.;Heute merke ich mir das Wort „Hunger“.
+469;05 Essen & Trinken;smäd;Durst;Dnes si zapamätám slovo „smäd“.;Heute merke ich mir das Wort „Durst“.
+470;05 Essen & Trinken;chuť;Geschmack/Appetit;Dnes si zapamätám slovo „chuť“.;Heute merke ich mir das Wort „Geschmack/Appetit“.
+471;05 Essen & Trinken;sladký;süß;Dnes si zapamätám slovo „sladký“.;Heute merke ich mir das Wort „süß“.
+472;05 Essen & Trinken;slaný;salzig;Dnes si zapamätám slovo „slaný“.;Heute merke ich mir das Wort „salzig“.
+473;05 Essen & Trinken;kyslý;sauer;Dnes si zapamätám slovo „kyslý“.;Heute merke ich mir das Wort „sauer“.
+474;05 Essen & Trinken;horký;bitter;Dnes si zapamätám slovo „horký“.;Heute merke ich mir das Wort „bitter“.
+475;05 Essen & Trinken;pikantný;scharf;Dnes si zapamätám slovo „pikantný“.;Heute merke ich mir das Wort „scharf“.
+476;05 Essen & Trinken;čerstvý;frisch;Dnes si zapamätám slovo „čerstvý“.;Heute merke ich mir das Wort „frisch“.
+477;05 Essen & Trinken;teplý;warm;Dnes si zapamätám slovo „teplý“.;Heute merke ich mir das Wort „warm“.
+478;05 Essen & Trinken;studený;kalt;Dnes si zapamätám slovo „studený“.;Heute merke ich mir das Wort „kalt“.
+479;05 Essen & Trinken;horúci;heiß;Dnes si zapamätám slovo „horúci“.;Heute merke ich mir das Wort „heiß“.
+480;05 Essen & Trinken;chutný;lecker;Dnes si zapamätám slovo „chutný“.;Heute merke ich mir das Wort „lecker“.
+481;05 Essen & Trinken;hladný;hungrig;Dnes si zapamätám slovo „hladný“.;Heute merke ich mir das Wort „hungrig“.
+482;05 Essen & Trinken;smädný;durstig;Dnes si zapamätám slovo „smädný“.;Heute merke ich mir das Wort „durstig“.
+483;05 Essen & Trinken;plný;voll;Dnes si zapamätám slovo „plný“.;Heute merke ich mir das Wort „voll“.
+484;05 Essen & Trinken;prázdny;leer;Dnes si zapamätám slovo „prázdny“.;Heute merke ich mir das Wort „leer“.
+485;05 Essen & Trinken;vegetariánsky;vegetarisch;Dnes si zapamätám slovo „vegetariánsky“.;Heute merke ich mir das Wort „vegetarisch“.
+486;05 Essen & Trinken;raňajkovať;frühstücken;Dnes si zapamätám slovo „raňajkovať“.;Heute merke ich mir das Wort „frühstücken“.
+487;05 Essen & Trinken;obedovať;zu Mittag essen;Dnes si zapamätám slovo „obedovať“.;Heute merke ich mir das Wort „zu Mittag essen“.
+488;05 Essen & Trinken;večerať;zu Abend essen;Dnes si zapamätám slovo „večerať“.;Heute merke ich mir das Wort „zu Abend essen“.
+489;06 Zuhause;dom;Haus;Dnes si zapamätám slovo „dom“.;Heute merke ich mir das Wort „Haus“.
+490;06 Zuhause;byt;Wohnung;Dnes si zapamätám slovo „byt“.;Heute merke ich mir das Wort „Wohnung“.
+491;06 Zuhause;izba;Zimmer;Dnes si zapamätám slovo „izba“.;Heute merke ich mir das Wort „Zimmer“.
+492;06 Zuhause;kuchyňa;Küche;Dnes si zapamätám slovo „kuchyňa“.;Heute merke ich mir das Wort „Küche“.
+493;06 Zuhause;kúpeľňa;Badezimmer;Dnes si zapamätám slovo „kúpeľňa“.;Heute merke ich mir das Wort „Badezimmer“.
+494;06 Zuhause;spálňa;Schlafzimmer;Dnes si zapamätám slovo „spálňa“.;Heute merke ich mir das Wort „Schlafzimmer“.
+495;06 Zuhause;obývačka;Wohnzimmer;Dnes si zapamätám slovo „obývačka“.;Heute merke ich mir das Wort „Wohnzimmer“.
+496;06 Zuhause;chodba;Flur;Dnes si zapamätám slovo „chodba“.;Heute merke ich mir das Wort „Flur“.
+497;06 Zuhause;balkón;Balkon;Dnes si zapamätám slovo „balkón“.;Heute merke ich mir das Wort „Balkon“.
+498;06 Zuhause;záhrada;Garten;Dnes si zapamätám slovo „záhrada“.;Heute merke ich mir das Wort „Garten“.
+499;06 Zuhause;garáž;Garage;Dnes si zapamätám slovo „garáž“.;Heute merke ich mir das Wort „Garage“.
+500;06 Zuhause;dvere;Tür;Dnes si zapamätám slovo „dvere“.;Heute merke ich mir das Wort „Tür“.
+501;06 Zuhause;okno;Fenster;Dnes si zapamätám slovo „okno“.;Heute merke ich mir das Wort „Fenster“.
+502;06 Zuhause;stena;Wand;Dnes si zapamätám slovo „stena“.;Heute merke ich mir das Wort „Wand“.
+503;06 Zuhause;podlaha;Boden;Dnes si zapamätám slovo „podlaha“.;Heute merke ich mir das Wort „Boden“.
+504;06 Zuhause;strop;Decke;Dnes si zapamätám slovo „strop“.;Heute merke ich mir das Wort „Decke“.
+505;06 Zuhause;strecha;Dach;Dnes si zapamätám slovo „strecha“.;Heute merke ich mir das Wort „Dach“.
+506;06 Zuhause;schody;Treppe;Dnes si zapamätám slovo „schody“.;Heute merke ich mir das Wort „Treppe“.
+507;06 Zuhause;výťah;Aufzug;Dnes si zapamätám slovo „výťah“.;Heute merke ich mir das Wort „Aufzug“.
+508;06 Zuhause;kľúč;Schlüssel;Dnes si zapamätám slovo „kľúč“.;Heute merke ich mir das Wort „Schlüssel“.
+509;06 Zuhause;zámok;Schloss;Dnes si zapamätám slovo „zámok“.;Heute merke ich mir das Wort „Schloss“.
+510;06 Zuhause;posteľ;Bett;Dnes si zapamätám slovo „posteľ“.;Heute merke ich mir das Wort „Bett“.
+511;06 Zuhause;stolička;Stuhl;Dnes si zapamätám slovo „stolička“.;Heute merke ich mir das Wort „Stuhl“.
+512;06 Zuhause;gauč;Sofa;Dnes si zapamätám slovo „gauč“.;Heute merke ich mir das Wort „Sofa“.
+513;06 Zuhause;skriňa;Schrank;Dnes si zapamätám slovo „skriňa“.;Heute merke ich mir das Wort „Schrank“.
+514;06 Zuhause;polica;Regal;Dnes si zapamätám slovo „polica“.;Heute merke ich mir das Wort „Regal“.
+515;06 Zuhause;lampa;Lampe;Dnes si zapamätám slovo „lampa“.;Heute merke ich mir das Wort „Lampe“.
+516;06 Zuhause;svetlo;Licht;Dnes si zapamätám slovo „svetlo“.;Heute merke ich mir das Wort „Licht“.
+517;06 Zuhause;zrkadlo;Spiegel;Dnes si zapamätám slovo „zrkadlo“.;Heute merke ich mir das Wort „Spiegel“.
+518;06 Zuhause;koberec;Teppich;Dnes si zapamätám slovo „koberec“.;Heute merke ich mir das Wort „Teppich“.
+519;06 Zuhause;záves;Vorhang;Dnes si zapamätám slovo „záves“.;Heute merke ich mir das Wort „Vorhang“.
+520;06 Zuhause;vankúš;Kissen;Dnes si zapamätám slovo „vankúš“.;Heute merke ich mir das Wort „Kissen“.
+521;06 Zuhause;deka;Decke;Dnes si zapamätám slovo „deka“.;Heute merke ich mir das Wort „Decke“.
+522;06 Zuhause;uterák;Handtuch;Dnes si zapamätám slovo „uterák“.;Heute merke ich mir das Wort „Handtuch“.
+523;06 Zuhause;mydlo;Seife;Dnes si zapamätám slovo „mydlo“.;Heute merke ich mir das Wort „Seife“.
+524;06 Zuhause;šampón;Shampoo;Dnes si zapamätám slovo „šampón“.;Heute merke ich mir das Wort „Shampoo“.
+525;06 Zuhause;zubná kefka;Zahnbürste;Dnes si zapamätám slovo „zubná kefka“.;Heute merke ich mir das Wort „Zahnbürste“.
+526;06 Zuhause;chladnička;Kühlschrank;Dnes si zapamätám slovo „chladnička“.;Heute merke ich mir das Wort „Kühlschrank“.
+527;06 Zuhause;mraznička;Gefrierschrank;Dnes si zapamätám slovo „mraznička“.;Heute merke ich mir das Wort „Gefrierschrank“.
+528;06 Zuhause;rúra;Backofen;Dnes si zapamätám slovo „rúra“.;Heute merke ich mir das Wort „Backofen“.
+529;06 Zuhause;sporák;Herd;Dnes si zapamätám slovo „sporák“.;Heute merke ich mir das Wort „Herd“.
+530;06 Zuhause;mikrovlnka;Mikrowelle;Dnes si zapamätám slovo „mikrovlnka“.;Heute merke ich mir das Wort „Mikrowelle“.
+531;06 Zuhause;umývačka;Geschirrspüler;Dnes si zapamätám slovo „umývačka“.;Heute merke ich mir das Wort „Geschirrspüler“.
+532;06 Zuhause;práčka;Waschmaschine;Dnes si zapamätám slovo „práčka“.;Heute merke ich mir das Wort „Waschmaschine“.
+533;06 Zuhause;vysávač;Staubsauger;Dnes si zapamätám slovo „vysávač“.;Heute merke ich mir das Wort „Staubsauger“.
+534;06 Zuhause;odpad;Müll;Dnes si zapamätám slovo „odpad“.;Heute merke ich mir das Wort „Müll“.
+535;06 Zuhause;kôš;Mülleimer/Korb;Dnes si zapamätám slovo „kôš“.;Heute merke ich mir das Wort „Mülleimer/Korb“.
+536;06 Zuhause;elektrina;Strom;Dnes si zapamätám slovo „elektrina“.;Heute merke ich mir das Wort „Strom“.
+537;06 Zuhause;kúrenie;Heizung;Dnes si zapamätám slovo „kúrenie“.;Heute merke ich mir das Wort „Heizung“.
+538;06 Zuhause;internet;Internet;Dnes si zapamätám slovo „internet“.;Heute merke ich mir das Wort „Internet“.
+539;06 Zuhause;zásuvka;Steckdose;Dnes si zapamätám slovo „zásuvka“.;Heute merke ich mir das Wort „Steckdose“.
+540;06 Zuhause;kábel;Kabel;Dnes si zapamätám slovo „kábel“.;Heute merke ich mir das Wort „Kabel“.
+541;06 Zuhause;nabíjačka;Ladegerät;Dnes si zapamätám slovo „nabíjačka“.;Heute merke ich mir das Wort „Ladegerät“.
+542;06 Zuhause;batéria;Batterie;Dnes si zapamätám slovo „batéria“.;Heute merke ich mir das Wort „Batterie“.
+543;06 Zuhause;vec;Sache;Dnes si zapamätám slovo „vec“.;Heute merke ich mir das Wort „Sache“.
+544;06 Zuhause;krabica;Schachtel;Dnes si zapamätám slovo „krabica“.;Heute merke ich mir das Wort „Schachtel“.
+545;06 Zuhause;taška;Tasche;Dnes si zapamätám slovo „taška“.;Heute merke ich mir das Wort „Tasche“.
+546;06 Zuhause;batoh;Rucksack;Dnes si zapamätám slovo „batoh“.;Heute merke ich mir das Wort „Rucksack“.
+547;06 Zuhause;oblečenie;Kleidung;Dnes si zapamätám slovo „oblečenie“.;Heute merke ich mir das Wort „Kleidung“.
+548;06 Zuhause;tričko;T-Shirt;Dnes si zapamätám slovo „tričko“.;Heute merke ich mir das Wort „T-Shirt“.
+549;06 Zuhause;košeľa;Hemd;Dnes si zapamätám slovo „košeľa“.;Heute merke ich mir das Wort „Hemd“.
+550;06 Zuhause;nohavice;Hose;Dnes si zapamätám slovo „nohavice“.;Heute merke ich mir das Wort „Hose“.
+551;06 Zuhause;džínsy;Jeans;Dnes si zapamätám slovo „džínsy“.;Heute merke ich mir das Wort „Jeans“.
+552;06 Zuhause;šortky;Shorts;Dnes si zapamätám slovo „šortky“.;Heute merke ich mir das Wort „Shorts“.
+553;06 Zuhause;sukňa;Rock;Dnes si zapamätám slovo „sukňa“.;Heute merke ich mir das Wort „Rock“.
+554;06 Zuhause;šaty;Kleid;Dnes si zapamätám slovo „šaty“.;Heute merke ich mir das Wort „Kleid“.
+555;06 Zuhause;sveter;Pullover;Dnes si zapamätám slovo „sveter“.;Heute merke ich mir das Wort „Pullover“.
+556;06 Zuhause;bunda;Jacke;Dnes si zapamätám slovo „bunda“.;Heute merke ich mir das Wort „Jacke“.
+557;06 Zuhause;kabát;Mantel;Dnes si zapamätám slovo „kabát“.;Heute merke ich mir das Wort „Mantel“.
+558;06 Zuhause;topánka;Schuh;Dnes si zapamätám slovo „topánka“.;Heute merke ich mir das Wort „Schuh“.
+559;06 Zuhause;ponožka;Socke;Dnes si zapamätám slovo „ponožka“.;Heute merke ich mir das Wort „Socke“.
+560;06 Zuhause;čiapka;Mütze;Dnes si zapamätám slovo „čiapka“.;Heute merke ich mir das Wort „Mütze“.
+561;06 Zuhause;okuliare;Brille;Dnes si zapamätám slovo „okuliare“.;Heute merke ich mir das Wort „Brille“.
+562;06 Zuhause;hodinky;Armbanduhr;Dnes si zapamätám slovo „hodinky“.;Heute merke ich mir das Wort „Armbanduhr“.
+563;06 Zuhause;peňaženka;Geldbörse;Dnes si zapamätám slovo „peňaženka“.;Heute merke ich mir das Wort „Geldbörse“.
+564;06 Zuhause;dáždnik;Regenschirm;Dnes si zapamätám slovo „dáždnik“.;Heute merke ich mir das Wort „Regenschirm“.
+565;06 Zuhause;poriadok;Ordnung;Dnes si zapamätám slovo „poriadok“.;Heute merke ich mir das Wort „Ordnung“.
+566;06 Zuhause;neporiadok;Unordnung;Dnes si zapamätám slovo „neporiadok“.;Heute merke ich mir das Wort „Unordnung“.
+567;06 Zuhause;nájom;Miete;Dnes si zapamätám slovo „nájom“.;Heute merke ich mir das Wort „Miete“.
+568;06 Zuhause;susedstvo;Nachbarschaft;Dnes si zapamätám slovo „susedstvo“.;Heute merke ich mir das Wort „Nachbarschaft“.
+569;06 Zuhause;poschodie;Stockwerk;Dnes si zapamätám slovo „poschodie“.;Heute merke ich mir das Wort „Stockwerk“.
+570;06 Zuhause;vchod;Eingang;Dnes si zapamätám slovo „vchod“.;Heute merke ich mir das Wort „Eingang“.
+571;06 Zuhause;východ;Ausgang;Dnes si zapamätám slovo „východ“.;Heute merke ich mir das Wort „Ausgang“.
+572;06 Zuhause;zvonček;Klingel;Dnes si zapamätám slovo „zvonček“.;Heute merke ich mir das Wort „Klingel“.
+573;06 Zuhause;pošta;Post;Dnes si zapamätám slovo „pošta“.;Heute merke ich mir das Wort „Post“.
+574;06 Zuhause;balík;Paket;Dnes si zapamätám slovo „balík“.;Heute merke ich mir das Wort „Paket“.
+575;06 Zuhause;list;Brief;Dnes si zapamätám slovo „list“.;Heute merke ich mir das Wort „Brief“.
+576;06 Zuhause;papier;Papier;Dnes si zapamätám slovo „papier“.;Heute merke ich mir das Wort „Papier“.
+577;06 Zuhause;pero;Stift;Dnes si zapamätám slovo „pero“.;Heute merke ich mir das Wort „Stift“.
+578;06 Zuhause;ceruzka;Bleistift;Dnes si zapamätám slovo „ceruzka“.;Heute merke ich mir das Wort „Bleistift“.
+579;06 Zuhause;nožnice;Schere;Dnes si zapamätám slovo „nožnice“.;Heute merke ich mir das Wort „Schere“.
+580;06 Zuhause;lepidlo;Kleber;Dnes si zapamätám slovo „lepidlo“.;Heute merke ich mir das Wort „Kleber“.
+581;06 Zuhause;náradie;Werkzeug;Dnes si zapamätám slovo „náradie“.;Heute merke ich mir das Wort „Werkzeug“.
+582;06 Zuhause;kladivo;Hammer;Dnes si zapamätám slovo „kladivo“.;Heute merke ich mir das Wort „Hammer“.
+583;06 Zuhause;skrutka;Schraube;Dnes si zapamätám slovo „skrutka“.;Heute merke ich mir das Wort „Schraube“.
+584;06 Zuhause;drevo;Holz;Dnes si zapamätám slovo „drevo“.;Heute merke ich mir das Wort „Holz“.
+585;06 Zuhause;kov;Metall;Dnes si zapamätám slovo „kov“.;Heute merke ich mir das Wort „Metall“.
+586;06 Zuhause;plast;Kunststoff;Dnes si zapamätám slovo „plast“.;Heute merke ich mir das Wort „Kunststoff“.
+587;06 Zuhause;sklo;Glas;Dnes si zapamätám slovo „sklo“.;Heute merke ich mir das Wort „Glas“.
+588;07 Stadt & Reisen;mesto;Stadt;Dnes si zapamätám slovo „mesto“.;Heute merke ich mir das Wort „Stadt“.
+589;07 Stadt & Reisen;dedina;Dorf;Dnes si zapamätám slovo „dedina“.;Heute merke ich mir das Wort „Dorf“.
+590;07 Stadt & Reisen;ulica;Straße;Dnes si zapamätám slovo „ulica“.;Heute merke ich mir das Wort „Straße“.
+591;07 Stadt & Reisen;cesta;Weg/Straße;Dnes si zapamätám slovo „cesta“.;Heute merke ich mir das Wort „Weg/Straße“.
+592;07 Stadt & Reisen;námestie;Platz;Dnes si zapamätám slovo „námestie“.;Heute merke ich mir das Wort „Platz“.
+593;07 Stadt & Reisen;centrum;Zentrum;Dnes si zapamätám slovo „centrum“.;Heute merke ich mir das Wort „Zentrum“.
+594;07 Stadt & Reisen;park;Park;Dnes si zapamätám slovo „park“.;Heute merke ich mir das Wort „Park“.
+595;07 Stadt & Reisen;stanica;Bahnhof/Station;Dnes si zapamätám slovo „stanica“.;Heute merke ich mir das Wort „Bahnhof/Station“.
+596;07 Stadt & Reisen;zastávka;Haltestelle;Dnes si zapamätám slovo „zastávka“.;Heute merke ich mir das Wort „Haltestelle“.
+597;07 Stadt & Reisen;letisko;Flughafen;Dnes si zapamätám slovo „letisko“.;Heute merke ich mir das Wort „Flughafen“.
+598;07 Stadt & Reisen;vlak;Zug;Dnes si zapamätám slovo „vlak“.;Heute merke ich mir das Wort „Zug“.
+599;07 Stadt & Reisen;autobus;Bus;Dnes si zapamätám slovo „autobus“.;Heute merke ich mir das Wort „Bus“.
+600;07 Stadt & Reisen;električka;Straßenbahn;Dnes si zapamätám slovo „električka“.;Heute merke ich mir das Wort „Straßenbahn“.
+601;07 Stadt & Reisen;metro;U-Bahn;Dnes si zapamätám slovo „metro“.;Heute merke ich mir das Wort „U-Bahn“.
+602;07 Stadt & Reisen;auto;Auto;Dnes si zapamätám slovo „auto“.;Heute merke ich mir das Wort „Auto“.
+603;07 Stadt & Reisen;taxík;Taxi;Dnes si zapamätám slovo „taxík“.;Heute merke ich mir das Wort „Taxi“.
+604;07 Stadt & Reisen;bicykel;Fahrrad;Dnes si zapamätám slovo „bicykel“.;Heute merke ich mir das Wort „Fahrrad“.
+605;07 Stadt & Reisen;motorka;Motorrad;Dnes si zapamätám slovo „motorka“.;Heute merke ich mir das Wort „Motorrad“.
+606;07 Stadt & Reisen;lietadlo;Flugzeug;Dnes si zapamätám slovo „lietadlo“.;Heute merke ich mir das Wort „Flugzeug“.
+607;07 Stadt & Reisen;loď;Schiff;Dnes si zapamätám slovo „loď“.;Heute merke ich mir das Wort „Schiff“.
+608;07 Stadt & Reisen;lístok;Fahrkarte/Ticket;Dnes si zapamätám slovo „lístok“.;Heute merke ich mir das Wort „Fahrkarte/Ticket“.
+609;07 Stadt & Reisen;cestovný lístok;Fahrkarte;Dnes si zapamätám slovo „cestovný lístok“.;Heute merke ich mir das Wort „Fahrkarte“.
+610;07 Stadt & Reisen;nástupište;Bahnsteig;Dnes si zapamätám slovo „nástupište“.;Heute merke ich mir das Wort „Bahnsteig“.
+611;07 Stadt & Reisen;koľaj;Gleis;Dnes si zapamätám slovo „koľaj“.;Heute merke ich mir das Wort „Gleis“.
+612;07 Stadt & Reisen;smer;Richtung;Dnes si zapamätám slovo „smer“.;Heute merke ich mir das Wort „Richtung“.
+613;07 Stadt & Reisen;mapa;Karte;Dnes si zapamätám slovo „mapa“.;Heute merke ich mir das Wort „Karte“.
+614;07 Stadt & Reisen;hotel;Hotel;Dnes si zapamätám slovo „hotel“.;Heute merke ich mir das Wort „Hotel“.
+615;07 Stadt & Reisen;recepcia;Rezeption;Dnes si zapamätám slovo „recepcia“.;Heute merke ich mir das Wort „Rezeption“.
+616;07 Stadt & Reisen;rezervácia;Reservierung;Dnes si zapamätám slovo „rezervácia“.;Heute merke ich mir das Wort „Reservierung“.
+617;07 Stadt & Reisen;pas;Reisepass;Dnes si zapamätám slovo „pas“.;Heute merke ich mir das Wort „Reisepass“.
+618;07 Stadt & Reisen;doklad;Ausweis/Dokument;Dnes si zapamätám slovo „doklad“.;Heute merke ich mir das Wort „Ausweis/Dokument“.
+619;07 Stadt & Reisen;batožina;Gepäck;Dnes si zapamätám slovo „batožina“.;Heute merke ich mir das Wort „Gepäck“.
+620;07 Stadt & Reisen;kufor;Koffer;Dnes si zapamätám slovo „kufor“.;Heute merke ich mir das Wort „Koffer“.
+621;07 Stadt & Reisen;výlet;Ausflug;Dnes si zapamätám slovo „výlet“.;Heute merke ich mir das Wort „Ausflug“.
+622;07 Stadt & Reisen;dovolenka;Urlaub;Dnes si zapamätám slovo „dovolenka“.;Heute merke ich mir das Wort „Urlaub“.
+623;07 Stadt & Reisen;hranica;Grenze;Dnes si zapamätám slovo „hranica“.;Heute merke ich mir das Wort „Grenze“.
+624;07 Stadt & Reisen;krajina;Land;Dnes si zapamätám slovo „krajina“.;Heute merke ich mir das Wort „Land“.
+625;07 Stadt & Reisen;Slovensko;Slowakei;Dnes si zapamätám slovo „Slovensko“.;Heute merke ich mir das Wort „Slowakei“.
+626;07 Stadt & Reisen;Rakúsko;Österreich;Dnes si zapamätám slovo „Rakúsko“.;Heute merke ich mir das Wort „Österreich“.
+627;07 Stadt & Reisen;Nemecko;Deutschland;Dnes si zapamätám slovo „Nemecko“.;Heute merke ich mir das Wort „Deutschland“.
+628;07 Stadt & Reisen;Európa;Europa;Dnes si zapamätám slovo „Európa“.;Heute merke ich mir das Wort „Europa“.
+629;07 Stadt & Reisen;hory;Berge;Dnes si zapamätám slovo „hory“.;Heute merke ich mir das Wort „Berge“.
+630;07 Stadt & Reisen;hora;Berg;Dnes si zapamätám slovo „hora“.;Heute merke ich mir das Wort „Berg“.
+631;07 Stadt & Reisen;les;Wald;Dnes si zapamätám slovo „les“.;Heute merke ich mir das Wort „Wald“.
+632;07 Stadt & Reisen;jazero;See;Dnes si zapamätám slovo „jazero“.;Heute merke ich mir das Wort „See“.
+633;07 Stadt & Reisen;rieka;Fluss;Dnes si zapamätám slovo „rieka“.;Heute merke ich mir das Wort „Fluss“.
+634;07 Stadt & Reisen;more;Meer;Dnes si zapamätám slovo „more“.;Heute merke ich mir das Wort „Meer“.
+635;07 Stadt & Reisen;pláž;Strand;Dnes si zapamätám slovo „pláž“.;Heute merke ich mir das Wort „Strand“.
+636;07 Stadt & Reisen;ostrov;Insel;Dnes si zapamätám slovo „ostrov“.;Heute merke ich mir das Wort „Insel“.
+637;07 Stadt & Reisen;príroda;Natur;Dnes si zapamätám slovo „príroda“.;Heute merke ich mir das Wort „Natur“.
+638;07 Stadt & Reisen;chodník;Pfad/Gehweg;Dnes si zapamätám slovo „chodník“.;Heute merke ich mir das Wort „Pfad/Gehweg“.
+639;07 Stadt & Reisen;most;Brücke;Dnes si zapamätám slovo „most“.;Heute merke ich mir das Wort „Brücke“.
+640;07 Stadt & Reisen;križovatka;Kreuzung;Dnes si zapamätám slovo „križovatka“.;Heute merke ich mir das Wort „Kreuzung“.
+641;07 Stadt & Reisen;semafor;Ampel;Dnes si zapamätám slovo „semafor“.;Heute merke ich mir das Wort „Ampel“.
+642;07 Stadt & Reisen;parkovisko;Parkplatz;Dnes si zapamätám slovo „parkovisko“.;Heute merke ich mir das Wort „Parkplatz“.
+643;07 Stadt & Reisen;benzín;Benzin;Dnes si zapamätám slovo „benzín“.;Heute merke ich mir das Wort „Benzin“.
+644;07 Stadt & Reisen;čerpačka;Tankstelle;Dnes si zapamätám slovo „čerpačka“.;Heute merke ich mir das Wort „Tankstelle“.
+645;07 Stadt & Reisen;diaľnica;Autobahn;Dnes si zapamätám slovo „diaľnica“.;Heute merke ich mir das Wort „Autobahn“.
+646;07 Stadt & Reisen;premávka;Verkehr;Dnes si zapamätám slovo „premávka“.;Heute merke ich mir das Wort „Verkehr“.
+647;07 Stadt & Reisen;zápcha;Stau;Dnes si zapamätám slovo „zápcha“.;Heute merke ich mir das Wort „Stau“.
+648;07 Stadt & Reisen;nehoda;Unfall;Dnes si zapamätám slovo „nehoda“.;Heute merke ich mir das Wort „Unfall“.
+649;07 Stadt & Reisen;rýchlosť;Geschwindigkeit;Dnes si zapamätám slovo „rýchlosť“.;Heute merke ich mir das Wort „Geschwindigkeit“.
+650;07 Stadt & Reisen;kilometer;Kilometer;Dnes si zapamätám slovo „kilometer“.;Heute merke ich mir das Wort „Kilometer“.
+651;07 Stadt & Reisen;vzdialenosť;Entfernung;Dnes si zapamätám slovo „vzdialenosť“.;Heute merke ich mir das Wort „Entfernung“.
+652;07 Stadt & Reisen;vstup;Eintritt/Eingang;Dnes si zapamätám slovo „vstup“.;Heute merke ich mir das Wort „Eintritt/Eingang“.
+653;07 Stadt & Reisen;výstup;Ausgang/Ausstieg;Dnes si zapamätám slovo „výstup“.;Heute merke ich mir das Wort „Ausgang/Ausstieg“.
+654;07 Stadt & Reisen;otvorené;geöffnet;Dnes si zapamätám slovo „otvorené“.;Heute merke ich mir das Wort „geöffnet“.
+655;07 Stadt & Reisen;zatvorené;geschlossen;Dnes si zapamätám slovo „zatvorené“.;Heute merke ich mir das Wort „geschlossen“.
+656;07 Stadt & Reisen;voľné;frei;Dnes si zapamätám slovo „voľné“.;Heute merke ich mir das Wort „frei“.
+657;07 Stadt & Reisen;obsadené;besetzt;Dnes si zapamätám slovo „obsadené“.;Heute merke ich mir das Wort „besetzt“.
+658;07 Stadt & Reisen;meškanie;Verspätung;Dnes si zapamätám slovo „meškanie“.;Heute merke ich mir das Wort „Verspätung“.
+659;07 Stadt & Reisen;odchod;Abfahrt;Dnes si zapamätám slovo „odchod“.;Heute merke ich mir das Wort „Abfahrt“.
+660;07 Stadt & Reisen;príchod;Ankunft;Dnes si zapamätám slovo „príchod“.;Heute merke ich mir das Wort „Ankunft“.
+661;07 Stadt & Reisen;spiatočný;hin und zurück;Dnes si zapamätám slovo „spiatočný“.;Heute merke ich mir das Wort „hin und zurück“.
+662;07 Stadt & Reisen;jednosmerný;einfach/eine Richtung;Dnes si zapamätám slovo „jednosmerný“.;Heute merke ich mir das Wort „einfach/eine Richtung“.
+663;07 Stadt & Reisen;turista;Tourist;Dnes si zapamätám slovo „turista“.;Heute merke ich mir das Wort „Tourist“.
+664;07 Stadt & Reisen;sprievodca;Reiseführer;Dnes si zapamätám slovo „sprievodca“.;Heute merke ich mir das Wort „Reiseführer“.
+665;07 Stadt & Reisen;pamiatka;Sehenswürdigkeit/Denkmal;Dnes si zapamätám slovo „pamiatka“.;Heute merke ich mir das Wort „Sehenswürdigkeit/Denkmal“.
+666;07 Stadt & Reisen;múzeum;Museum;Dnes si zapamätám slovo „múzeum“.;Heute merke ich mir das Wort „Museum“.
+667;07 Stadt & Reisen;galéria;Galerie;Dnes si zapamätám slovo „galéria“.;Heute merke ich mir das Wort „Galerie“.
+668;07 Stadt & Reisen;kino;Kino;Dnes si zapamätám slovo „kino“.;Heute merke ich mir das Wort „Kino“.
+669;07 Stadt & Reisen;divadlo;Theater;Dnes si zapamätám slovo „divadlo“.;Heute merke ich mir das Wort „Theater“.
+670;07 Stadt & Reisen;koncert;Konzert;Dnes si zapamätám slovo „koncert“.;Heute merke ich mir das Wort „Konzert“.
+671;07 Stadt & Reisen;festival;Festival;Dnes si zapamätám slovo „festival“.;Heute merke ich mir das Wort „Festival“.
+672;07 Stadt & Reisen;kostol;Kirche;Dnes si zapamätám slovo „kostol“.;Heute merke ich mir das Wort „Kirche“.
+673;07 Stadt & Reisen;hrad;Burg;Dnes si zapamätám slovo „hrad“.;Heute merke ich mir das Wort „Burg“.
+674;07 Stadt & Reisen;nemocnica;Krankenhaus;Dnes si zapamätám slovo „nemocnica“.;Heute merke ich mir das Wort „Krankenhaus“.
+675;07 Stadt & Reisen;lekáreň;Apotheke;Dnes si zapamätám slovo „lekáreň“.;Heute merke ich mir das Wort „Apotheke“.
+676;07 Stadt & Reisen;polícia;Polizei;Dnes si zapamätám slovo „polícia“.;Heute merke ich mir das Wort „Polizei“.
+677;07 Stadt & Reisen;banka;Bank;Dnes si zapamätám slovo „banka“.;Heute merke ich mir das Wort „Bank“.
+678;07 Stadt & Reisen;bankomat;Geldautomat;Dnes si zapamätám slovo „bankomat“.;Heute merke ich mir das Wort „Geldautomat“.
+679;07 Stadt & Reisen;toaleta;Toilette;Dnes si zapamätám slovo „toaleta“.;Heute merke ich mir das Wort „Toilette“.
+680;07 Stadt & Reisen;informácie;Informationen;Dnes si zapamätám slovo „informácie“.;Heute merke ich mir das Wort „Informationen“.
+681;07 Stadt & Reisen;vstupenka;Eintrittskarte;Dnes si zapamätám slovo „vstupenka“.;Heute merke ich mir das Wort „Eintrittskarte“.
+682;07 Stadt & Reisen;cestujúci;Reisender;Dnes si zapamätám slovo „cestujúci“.;Heute merke ich mir das Wort „Reisender“.
+683;08 Zeit, Zahlen & Wetter;čas;Zeit;Dnes si zapamätám slovo „čas“.;Heute merke ich mir das Wort „Zeit“.
+684;08 Zeit, Zahlen & Wetter;hodina;Stunde;Dnes si zapamätám slovo „hodina“.;Heute merke ich mir das Wort „Stunde“.
+685;08 Zeit, Zahlen & Wetter;minúta;Minute;Dnes si zapamätám slovo „minúta“.;Heute merke ich mir das Wort „Minute“.
+686;08 Zeit, Zahlen & Wetter;sekunda;Sekunde;Dnes si zapamätám slovo „sekunda“.;Heute merke ich mir das Wort „Sekunde“.
+687;08 Zeit, Zahlen & Wetter;poludnie;Mittag;Dnes si zapamätám slovo „poludnie“.;Heute merke ich mir das Wort „Mittag“.
+688;08 Zeit, Zahlen & Wetter;polnoc;Mitternacht;Dnes si zapamätám slovo „polnoc“.;Heute merke ich mir das Wort „Mitternacht“.
+689;08 Zeit, Zahlen & Wetter;pondelok;Montag;Dnes si zapamätám slovo „pondelok“.;Heute merke ich mir das Wort „Montag“.
+690;08 Zeit, Zahlen & Wetter;utorok;Dienstag;Dnes si zapamätám slovo „utorok“.;Heute merke ich mir das Wort „Dienstag“.
+691;08 Zeit, Zahlen & Wetter;streda;Mittwoch;Dnes si zapamätám slovo „streda“.;Heute merke ich mir das Wort „Mittwoch“.
+692;08 Zeit, Zahlen & Wetter;štvrtok;Donnerstag;Dnes si zapamätám slovo „štvrtok“.;Heute merke ich mir das Wort „Donnerstag“.
+693;08 Zeit, Zahlen & Wetter;piatok;Freitag;Dnes si zapamätám slovo „piatok“.;Heute merke ich mir das Wort „Freitag“.
+694;08 Zeit, Zahlen & Wetter;sobota;Samstag;Dnes si zapamätám slovo „sobota“.;Heute merke ich mir das Wort „Samstag“.
+695;08 Zeit, Zahlen & Wetter;nedeľa;Sonntag;Dnes si zapamätám slovo „nedeľa“.;Heute merke ich mir das Wort „Sonntag“.
+696;08 Zeit, Zahlen & Wetter;január;Januar;Dnes si zapamätám slovo „január“.;Heute merke ich mir das Wort „Januar“.
+697;08 Zeit, Zahlen & Wetter;február;Februar;Dnes si zapamätám slovo „február“.;Heute merke ich mir das Wort „Februar“.
+698;08 Zeit, Zahlen & Wetter;marec;März;Dnes si zapamätám slovo „marec“.;Heute merke ich mir das Wort „März“.
+699;08 Zeit, Zahlen & Wetter;apríl;April;Dnes si zapamätám slovo „apríl“.;Heute merke ich mir das Wort „April“.
+700;08 Zeit, Zahlen & Wetter;máj;Mai;Dnes si zapamätám slovo „máj“.;Heute merke ich mir das Wort „Mai“.
+701;08 Zeit, Zahlen & Wetter;jún;Juni;Dnes si zapamätám slovo „jún“.;Heute merke ich mir das Wort „Juni“.
+702;08 Zeit, Zahlen & Wetter;júl;Juli;Dnes si zapamätám slovo „júl“.;Heute merke ich mir das Wort „Juli“.
+703;08 Zeit, Zahlen & Wetter;august;August;Dnes si zapamätám slovo „august“.;Heute merke ich mir das Wort „August“.
+704;08 Zeit, Zahlen & Wetter;september;September;Dnes si zapamätám slovo „september“.;Heute merke ich mir das Wort „September“.
+705;08 Zeit, Zahlen & Wetter;október;Oktober;Dnes si zapamätám slovo „október“.;Heute merke ich mir das Wort „Oktober“.
+706;08 Zeit, Zahlen & Wetter;november;November;Dnes si zapamätám slovo „november“.;Heute merke ich mir das Wort „November“.
+707;08 Zeit, Zahlen & Wetter;december;Dezember;Dnes si zapamätám slovo „december“.;Heute merke ich mir das Wort „Dezember“.
+708;08 Zeit, Zahlen & Wetter;jar;Frühling;Dnes si zapamätám slovo „jar“.;Heute merke ich mir das Wort „Frühling“.
+709;08 Zeit, Zahlen & Wetter;leto;Sommer;Dnes si zapamätám slovo „leto“.;Heute merke ich mir das Wort „Sommer“.
+710;08 Zeit, Zahlen & Wetter;jeseň;Herbst;Dnes si zapamätám slovo „jeseň“.;Heute merke ich mir das Wort „Herbst“.
+711;08 Zeit, Zahlen & Wetter;zima;Winter;Dnes si zapamätám slovo „zima“.;Heute merke ich mir das Wort „Winter“.
+712;08 Zeit, Zahlen & Wetter;prvý;erste;Dnes si zapamätám slovo „prvý“.;Heute merke ich mir das Wort „erste“.
+713;08 Zeit, Zahlen & Wetter;druhý;zweite;Dnes si zapamätám slovo „druhý“.;Heute merke ich mir das Wort „zweite“.
+714;08 Zeit, Zahlen & Wetter;tretí;dritte;Dnes si zapamätám slovo „tretí“.;Heute merke ich mir das Wort „dritte“.
+715;08 Zeit, Zahlen & Wetter;posledný;letzte;Dnes si zapamätám slovo „posledný“.;Heute merke ich mir das Wort „letzte“.
+716;08 Zeit, Zahlen & Wetter;jeden;eins;Dnes si zapamätám slovo „jeden“.;Heute merke ich mir das Wort „eins“.
+717;08 Zeit, Zahlen & Wetter;dva;zwei;Dnes si zapamätám slovo „dva“.;Heute merke ich mir das Wort „zwei“.
+718;08 Zeit, Zahlen & Wetter;tri;drei;Dnes si zapamätám slovo „tri“.;Heute merke ich mir das Wort „drei“.
+719;08 Zeit, Zahlen & Wetter;štyri;vier;Dnes si zapamätám slovo „štyri“.;Heute merke ich mir das Wort „vier“.
+720;08 Zeit, Zahlen & Wetter;päť;fünf;Dnes si zapamätám slovo „päť“.;Heute merke ich mir das Wort „fünf“.
+721;08 Zeit, Zahlen & Wetter;šesť;sechs;Dnes si zapamätám slovo „šesť“.;Heute merke ich mir das Wort „sechs“.
+722;08 Zeit, Zahlen & Wetter;sedem;sieben;Dnes si zapamätám slovo „sedem“.;Heute merke ich mir das Wort „sieben“.
+723;08 Zeit, Zahlen & Wetter;osem;acht;Dnes si zapamätám slovo „osem“.;Heute merke ich mir das Wort „acht“.
+724;08 Zeit, Zahlen & Wetter;deväť;neun;Dnes si zapamätám slovo „deväť“.;Heute merke ich mir das Wort „neun“.
+725;08 Zeit, Zahlen & Wetter;desať;zehn;Dnes si zapamätám slovo „desať“.;Heute merke ich mir das Wort „zehn“.
+726;08 Zeit, Zahlen & Wetter;jedenásť;elf;Dnes si zapamätám slovo „jedenásť“.;Heute merke ich mir das Wort „elf“.
+727;08 Zeit, Zahlen & Wetter;dvanásť;zwölf;Dnes si zapamätám slovo „dvanásť“.;Heute merke ich mir das Wort „zwölf“.
+728;08 Zeit, Zahlen & Wetter;dvadsať;zwanzig;Dnes si zapamätám slovo „dvadsať“.;Heute merke ich mir das Wort „zwanzig“.
+729;08 Zeit, Zahlen & Wetter;tridsať;dreißig;Dnes si zapamätám slovo „tridsať“.;Heute merke ich mir das Wort „dreißig“.
+730;08 Zeit, Zahlen & Wetter;štyridsať;vierzig;Dnes si zapamätám slovo „štyridsať“.;Heute merke ich mir das Wort „vierzig“.
+731;08 Zeit, Zahlen & Wetter;päťdesiat;fünfzig;Dnes si zapamätám slovo „päťdesiat“.;Heute merke ich mir das Wort „fünfzig“.
+732;08 Zeit, Zahlen & Wetter;sto;hundert;Dnes si zapamätám slovo „sto“.;Heute merke ich mir das Wort „hundert“.
+733;08 Zeit, Zahlen & Wetter;tisíc;tausend;Dnes si zapamätám slovo „tisíc“.;Heute merke ich mir das Wort „tausend“.
+734;08 Zeit, Zahlen & Wetter;počasie;Wetter;Dnes si zapamätám slovo „počasie“.;Heute merke ich mir das Wort „Wetter“.
+735;08 Zeit, Zahlen & Wetter;slnko;Sonne;Dnes si zapamätám slovo „slnko“.;Heute merke ich mir das Wort „Sonne“.
+736;08 Zeit, Zahlen & Wetter;dážď;Regen;Dnes si zapamätám slovo „dážď“.;Heute merke ich mir das Wort „Regen“.
+737;08 Zeit, Zahlen & Wetter;sneh;Schnee;Dnes si zapamätám slovo „sneh“.;Heute merke ich mir das Wort „Schnee“.
+738;08 Zeit, Zahlen & Wetter;vietor;Wind;Dnes si zapamätám slovo „vietor“.;Heute merke ich mir das Wort „Wind“.
+739;08 Zeit, Zahlen & Wetter;oblak;Wolke;Dnes si zapamätám slovo „oblak“.;Heute merke ich mir das Wort „Wolke“.
+740;08 Zeit, Zahlen & Wetter;hmla;Nebel;Dnes si zapamätám slovo „hmla“.;Heute merke ich mir das Wort „Nebel“.
+741;08 Zeit, Zahlen & Wetter;búrka;Gewitter/Sturm;Dnes si zapamätám slovo „búrka“.;Heute merke ich mir das Wort „Gewitter/Sturm“.
+742;08 Zeit, Zahlen & Wetter;teplota;Temperatur;Dnes si zapamätám slovo „teplota“.;Heute merke ich mir das Wort „Temperatur“.
+743;08 Zeit, Zahlen & Wetter;stupeň;Grad;Dnes si zapamätám slovo „stupeň“.;Heute merke ich mir das Wort „Grad“.
+744;08 Zeit, Zahlen & Wetter;teplo;warm/Wärme;Dnes si zapamätám slovo „teplo“.;Heute merke ich mir das Wort „warm/Wärme“.
+745;08 Zeit, Zahlen & Wetter;chlad;Kälte;Dnes si zapamätám slovo „chlad“.;Heute merke ich mir das Wort „Kälte“.
+746;08 Zeit, Zahlen & Wetter;jasno;klar/sonnig;Dnes si zapamätám slovo „jasno“.;Heute merke ich mir das Wort „klar/sonnig“.
+747;08 Zeit, Zahlen & Wetter;zamračené;bewölkt;Dnes si zapamätám slovo „zamračené“.;Heute merke ich mir das Wort „bewölkt“.
+748;08 Zeit, Zahlen & Wetter;pršať;regnen;Dnes si zapamätám slovo „pršať“.;Heute merke ich mir das Wort „regnen“.
+749;08 Zeit, Zahlen & Wetter;snežiť;schneien;Dnes si zapamätám slovo „snežiť“.;Heute merke ich mir das Wort „schneien“.
+750;08 Zeit, Zahlen & Wetter;fúkať;wehen;Dnes si zapamätám slovo „fúkať“.;Heute merke ich mir das Wort „wehen“.
+751;08 Zeit, Zahlen & Wetter;svietiť;scheinen/leuchten;Dnes si zapamätám slovo „svietiť“.;Heute merke ich mir das Wort „scheinen/leuchten“.
+752;08 Zeit, Zahlen & Wetter;skoro;früh;Dnes si zapamätám slovo „skoro“.;Heute merke ich mir das Wort „früh“.
+753;08 Zeit, Zahlen & Wetter;neskoro;spät;Dnes si zapamätám slovo „neskoro“.;Heute merke ich mir das Wort „spät“.
+754;08 Zeit, Zahlen & Wetter;presne;genau/pünktlich;Dnes si zapamätám slovo „presne“.;Heute merke ich mir das Wort „genau/pünktlich“.
+755;08 Zeit, Zahlen & Wetter;hneď;sofort;Dnes si zapamätám slovo „hneď“.;Heute merke ich mir das Wort „sofort“.
+756;08 Zeit, Zahlen & Wetter;čoskoro;bald;Dnes si zapamätám slovo „čoskoro“.;Heute merke ich mir das Wort „bald“.
+757;08 Zeit, Zahlen & Wetter;dlho;lange;Dnes si zapamätám slovo „dlho“.;Heute merke ich mir das Wort „lange“.
+758;08 Zeit, Zahlen & Wetter;krátko;kurz;Dnes si zapamätám slovo „krátko“.;Heute merke ich mir das Wort „kurz“.
+759;08 Zeit, Zahlen & Wetter;minulosť;Vergangenheit;Dnes si zapamätám slovo „minulosť“.;Heute merke ich mir das Wort „Vergangenheit“.
+760;08 Zeit, Zahlen & Wetter;budúcnosť;Zukunft;Dnes si zapamätám slovo „budúcnosť“.;Heute merke ich mir das Wort „Zukunft“.
+761;08 Zeit, Zahlen & Wetter;začiatok;Anfang;Dnes si zapamätám slovo „začiatok“.;Heute merke ich mir das Wort „Anfang“.
+762;08 Zeit, Zahlen & Wetter;koniec;Ende;Dnes si zapamätám slovo „koniec“.;Heute merke ich mir das Wort „Ende“.
+763;08 Zeit, Zahlen & Wetter;termín;Termin/Frist;Dnes si zapamätám slovo „termín“.;Heute merke ich mir das Wort „Termin/Frist“.
+764;08 Zeit, Zahlen & Wetter;dátum;Datum;Dnes si zapamätám slovo „dátum“.;Heute merke ich mir das Wort „Datum“.
+765;08 Zeit, Zahlen & Wetter;kalendár;Kalender;Dnes si zapamätám slovo „kalendár“.;Heute merke ich mir das Wort „Kalender“.
+766;08 Zeit, Zahlen & Wetter;víkend;Wochenende;Dnes si zapamätám slovo „víkend“.;Heute merke ich mir das Wort „Wochenende“.
+767;08 Zeit, Zahlen & Wetter;pracovný deň;Werktag;Dnes si zapamätám slovo „pracovný deň“.;Heute merke ich mir das Wort „Werktag“.
+768;08 Zeit, Zahlen & Wetter;voľno;Freizeit/frei;Dnes si zapamätám slovo „voľno“.;Heute merke ich mir das Wort „Freizeit/frei“.
+769;08 Zeit, Zahlen & Wetter;prestávka;Pause;Dnes si zapamätám slovo „prestávka“.;Heute merke ich mir das Wort „Pause“.
+770;08 Zeit, Zahlen & Wetter;chvíľa;Moment;Dnes si zapamätám slovo „chvíľa“.;Heute merke ich mir das Wort „Moment“.
+771;08 Zeit, Zahlen & Wetter;raz;einmal;Dnes si zapamätám slovo „raz“.;Heute merke ich mir das Wort „einmal“.
+772;08 Zeit, Zahlen & Wetter;dvakrát;zweimal;Dnes si zapamätám slovo „dvakrát“.;Heute merke ich mir das Wort „zweimal“.
+773;08 Zeit, Zahlen & Wetter;pravidelne;regelmäßig;Dnes si zapamätám slovo „pravidelne“.;Heute merke ich mir das Wort „regelmäßig“.
+774;08 Zeit, Zahlen & Wetter;denne;täglich;Dnes si zapamätám slovo „denne“.;Heute merke ich mir das Wort „täglich“.
+775;08 Zeit, Zahlen & Wetter;týždenne;wöchentlich;Dnes si zapamätám slovo „týždenne“.;Heute merke ich mir das Wort „wöchentlich“.
+776;08 Zeit, Zahlen & Wetter;mesačne;monatlich;Dnes si zapamätám slovo „mesačne“.;Heute merke ich mir das Wort „monatlich“.
+777;08 Zeit, Zahlen & Wetter;ročne;jährlich;Dnes si zapamätám slovo „ročne“.;Heute merke ich mir das Wort „jährlich“.
+778;08 Zeit, Zahlen & Wetter;predtým;vorher;Dnes si zapamätám slovo „predtým“.;Heute merke ich mir das Wort „vorher“.
+779;08 Zeit, Zahlen & Wetter;neskôr;später;Dnes si zapamätám slovo „neskôr“.;Heute merke ich mir das Wort „später“.
+780;08 Zeit, Zahlen & Wetter;zatiaľ;bisher/vorerst;Dnes si zapamätám slovo „zatiaľ“.;Heute merke ich mir das Wort „bisher/vorerst“.
+781;08 Zeit, Zahlen & Wetter;práve;gerade;Dnes si zapamätám slovo „práve“.;Heute merke ich mir das Wort „gerade“.
+782;08 Zeit, Zahlen & Wetter;naraz;gleichzeitig/plötzlich;Dnes si zapamätám slovo „naraz“.;Heute merke ich mir das Wort „gleichzeitig/plötzlich“.
+783;09 Eigenschaften & Gefühle;veľký;groß;Dnes si zapamätám prídavné meno „veľký“.;Heute merke ich mir das Adjektiv „groß“.
+784;09 Eigenschaften & Gefühle;malý;klein;Dnes si zapamätám prídavné meno „malý“.;Heute merke ich mir das Adjektiv „klein“.
+785;09 Eigenschaften & Gefühle;dlhý;lang;Dnes si zapamätám prídavné meno „dlhý“.;Heute merke ich mir das Adjektiv „lang“.
+786;09 Eigenschaften & Gefühle;krátky;kurz;Dnes si zapamätám prídavné meno „krátky“.;Heute merke ich mir das Adjektiv „kurz“.
+787;09 Eigenschaften & Gefühle;vysoký;hoch/groß;Dnes si zapamätám prídavné meno „vysoký“.;Heute merke ich mir das Adjektiv „hoch/groß“.
+788;09 Eigenschaften & Gefühle;nízky;niedrig/klein;Dnes si zapamätám prídavné meno „nízky“.;Heute merke ich mir das Adjektiv „niedrig/klein“.
+789;09 Eigenschaften & Gefühle;široký;breit;Dnes si zapamätám prídavné meno „široký“.;Heute merke ich mir das Adjektiv „breit“.
+790;09 Eigenschaften & Gefühle;úzky;schmal;Dnes si zapamätám prídavné meno „úzky“.;Heute merke ich mir das Adjektiv „schmal“.
+791;09 Eigenschaften & Gefühle;ťažký;schwer;Dnes si zapamätám prídavné meno „ťažký“.;Heute merke ich mir das Adjektiv „schwer“.
+792;09 Eigenschaften & Gefühle;ľahký;leicht;Dnes si zapamätám prídavné meno „ľahký“.;Heute merke ich mir das Adjektiv „leicht“.
+793;09 Eigenschaften & Gefühle;rýchly;schnell;Dnes si zapamätám prídavné meno „rýchly“.;Heute merke ich mir das Adjektiv „schnell“.
+794;09 Eigenschaften & Gefühle;pomalý;langsam;Dnes si zapamätám prídavné meno „pomalý“.;Heute merke ich mir das Adjektiv „langsam“.
+795;09 Eigenschaften & Gefühle;nový;neu;Dnes si zapamätám prídavné meno „nový“.;Heute merke ich mir das Adjektiv „neu“.
+796;09 Eigenschaften & Gefühle;starý;alt;Dnes si zapamätám prídavné meno „starý“.;Heute merke ich mir das Adjektiv „alt“.
+797;09 Eigenschaften & Gefühle;mladý;jung;Dnes si zapamätám prídavné meno „mladý“.;Heute merke ich mir das Adjektiv „jung“.
+798;09 Eigenschaften & Gefühle;pekný;schön;Dnes si zapamätám prídavné meno „pekný“.;Heute merke ich mir das Adjektiv „schön“.
+799;09 Eigenschaften & Gefühle;škaredý;hässlich;Dnes si zapamätám prídavné meno „škaredý“.;Heute merke ich mir das Adjektiv „hässlich“.
+800;09 Eigenschaften & Gefühle;čistý;sauber;Dnes si zapamätám prídavné meno „čistý“.;Heute merke ich mir das Adjektiv „sauber“.
+801;09 Eigenschaften & Gefühle;špinavý;schmutzig;Dnes si zapamätám prídavné meno „špinavý“.;Heute merke ich mir das Adjektiv „schmutzig“.
+802;09 Eigenschaften & Gefühle;silný;stark;Dnes si zapamätám prídavné meno „silný“.;Heute merke ich mir das Adjektiv „stark“.
+803;09 Eigenschaften & Gefühle;slabý;schwach;Dnes si zapamätám prídavné meno „slabý“.;Heute merke ich mir das Adjektiv „schwach“.
+804;09 Eigenschaften & Gefühle;mäkký;weich;Dnes si zapamätám prídavné meno „mäkký“.;Heute merke ich mir das Adjektiv „weich“.
+805;09 Eigenschaften & Gefühle;tvrdý;hart;Dnes si zapamätám prídavné meno „tvrdý“.;Heute merke ich mir das Adjektiv „hart“.
+806;09 Eigenschaften & Gefühle;jednoduchý;einfach;Dnes si zapamätám prídavné meno „jednoduchý“.;Heute merke ich mir das Adjektiv „einfach“.
+807;09 Eigenschaften & Gefühle;dôležitý;wichtig;Dnes si zapamätám prídavné meno „dôležitý“.;Heute merke ich mir das Adjektiv „wichtig“.
+808;09 Eigenschaften & Gefühle;zaujímavý;interessant;Dnes si zapamätám prídavné meno „zaujímavý“.;Heute merke ich mir das Adjektiv „interessant“.
+809;09 Eigenschaften & Gefühle;nudný;langweilig;Dnes si zapamätám prídavné meno „nudný“.;Heute merke ich mir das Adjektiv „langweilig“.
+810;09 Eigenschaften & Gefühle;zábavný;unterhaltsam;Dnes si zapamätám prídavné meno „zábavný“.;Heute merke ich mir das Adjektiv „unterhaltsam“.
+811;09 Eigenschaften & Gefühle;zvláštny;seltsam;Dnes si zapamätám prídavné meno „zvláštny“.;Heute merke ich mir das Adjektiv „seltsam“.
+812;09 Eigenschaften & Gefühle;normálny;normal;Dnes si zapamätám prídavné meno „normálny“.;Heute merke ich mir das Adjektiv „normal“.
+813;09 Eigenschaften & Gefühle;iný;anders;Dnes si zapamätám prídavné meno „iný“.;Heute merke ich mir das Adjektiv „anders“.
+814;09 Eigenschaften & Gefühle;rovnaký;gleich;Dnes si zapamätám prídavné meno „rovnaký“.;Heute merke ich mir das Adjektiv „gleich“.
+815;09 Eigenschaften & Gefühle;správny;richtig;Dnes si zapamätám prídavné meno „správny“.;Heute merke ich mir das Adjektiv „richtig“.
+816;09 Eigenschaften & Gefühle;nesprávny;falsch;Dnes si zapamätám prídavné meno „nesprávny“.;Heute merke ich mir das Adjektiv „falsch“.
+817;09 Eigenschaften & Gefühle;pravdivý;wahr;Dnes si zapamätám prídavné meno „pravdivý“.;Heute merke ich mir das Adjektiv „wahr“.
+818;09 Eigenschaften & Gefühle;možný;möglich;Dnes si zapamätám prídavné meno „možný“.;Heute merke ich mir das Adjektiv „möglich“.
+819;09 Eigenschaften & Gefühle;nemožný;unmöglich;Dnes si zapamätám prídavné meno „nemožný“.;Heute merke ich mir das Adjektiv „unmöglich“.
+820;09 Eigenschaften & Gefühle;hotový;fertig;Dnes si zapamätám prídavné meno „hotový“.;Heute merke ich mir das Adjektiv „fertig“.
+821;09 Eigenschaften & Gefühle;pripravený;bereit;Dnes si zapamätám prídavné meno „pripravený“.;Heute merke ich mir das Adjektiv „bereit“.
+822;09 Eigenschaften & Gefühle;voľný;frei;Dnes si zapamätám prídavné meno „voľný“.;Heute merke ich mir das Adjektiv „frei“.
+823;09 Eigenschaften & Gefühle;zaneprázdnený;beschäftigt;Dnes si zapamätám prídavné meno „zaneprázdnený“.;Heute merke ich mir das Adjektiv „beschäftigt“.
+824;09 Eigenschaften & Gefühle;šťastný;glücklich;Dnes si zapamätám prídavné meno „šťastný“.;Heute merke ich mir das Adjektiv „glücklich“.
+825;09 Eigenschaften & Gefühle;smutný;traurig;Dnes si zapamätám prídavné meno „smutný“.;Heute merke ich mir das Adjektiv „traurig“.
+826;09 Eigenschaften & Gefühle;nahnevaný;wütend;Dnes si zapamätám prídavné meno „nahnevaný“.;Heute merke ich mir das Adjektiv „wütend“.
+827;09 Eigenschaften & Gefühle;pokojný;ruhig;Dnes si zapamätám prídavné meno „pokojný“.;Heute merke ich mir das Adjektiv „ruhig“.
+828;09 Eigenschaften & Gefühle;nervózny;nervös;Dnes si zapamätám prídavné meno „nervózny“.;Heute merke ich mir das Adjektiv „nervös“.
+829;09 Eigenschaften & Gefühle;unavený;müde;Dnes si zapamätám prídavné meno „unavený“.;Heute merke ich mir das Adjektiv „müde“.
+830;09 Eigenschaften & Gefühle;chorý;krank;Dnes si zapamätám prídavné meno „chorý“.;Heute merke ich mir das Adjektiv „krank“.
+831;09 Eigenschaften & Gefühle;zdravý;gesund;Dnes si zapamätám prídavné meno „zdravý“.;Heute merke ich mir das Adjektiv „gesund“.
+832;09 Eigenschaften & Gefühle;spokojný;zufrieden;Dnes si zapamätám prídavné meno „spokojný“.;Heute merke ich mir das Adjektiv „zufrieden“.
+833;09 Eigenschaften & Gefühle;nespokojný;unzufrieden;Dnes si zapamätám prídavné meno „nespokojný“.;Heute merke ich mir das Adjektiv „unzufrieden“.
+834;09 Eigenschaften & Gefühle;prekvapený;überrascht;Dnes si zapamätám prídavné meno „prekvapený“.;Heute merke ich mir das Adjektiv „überrascht“.
+835;09 Eigenschaften & Gefühle;zvedavý;neugierig;Dnes si zapamätám prídavné meno „zvedavý“.;Heute merke ich mir das Adjektiv „neugierig“.
+836;09 Eigenschaften & Gefühle;hrdý;stolz;Dnes si zapamätám prídavné meno „hrdý“.;Heute merke ich mir das Adjektiv „stolz“.
+837;09 Eigenschaften & Gefühle;milý;nett;Dnes si zapamätám prídavné meno „milý“.;Heute merke ich mir das Adjektiv „nett“.
+838;09 Eigenschaften & Gefühle;priateľský;freundlich;Dnes si zapamätám prídavné meno „priateľský“.;Heute merke ich mir das Adjektiv „freundlich“.
+839;09 Eigenschaften & Gefühle;nepríjemný;unangenehm;Dnes si zapamätám prídavné meno „nepríjemný“.;Heute merke ich mir das Adjektiv „unangenehm“.
+840;09 Eigenschaften & Gefühle;slušný;höflich;Dnes si zapamätám prídavné meno „slušný“.;Heute merke ich mir das Adjektiv „höflich“.
+841;09 Eigenschaften & Gefühle;vtipný;lustig;Dnes si zapamätám prídavné meno „vtipný“.;Heute merke ich mir das Adjektiv „lustig“.
+842;09 Eigenschaften & Gefühle;vážny;ernst;Dnes si zapamätám prídavné meno „vážny“.;Heute merke ich mir das Adjektiv „ernst“.
+843;09 Eigenschaften & Gefühle;tichý;leise;Dnes si zapamätám prídavné meno „tichý“.;Heute merke ich mir das Adjektiv „leise“.
+844;09 Eigenschaften & Gefühle;hlasný;laut;Dnes si zapamätám prídavné meno „hlasný“.;Heute merke ich mir das Adjektiv „laut“.
+845;09 Eigenschaften & Gefühle;múdry;klug;Dnes si zapamätám prídavné meno „múdry“.;Heute merke ich mir das Adjektiv „klug“.
+846;09 Eigenschaften & Gefühle;hlúpy;dumm;Dnes si zapamätám prídavné meno „hlúpy“.;Heute merke ich mir das Adjektiv „dumm“.
+847;09 Eigenschaften & Gefühle;šikovný;geschickt;Dnes si zapamätám prídavné meno „šikovný“.;Heute merke ich mir das Adjektiv „geschickt“.
+848;09 Eigenschaften & Gefühle;opatrný;vorsichtig;Dnes si zapamätám prídavné meno „opatrný“.;Heute merke ich mir das Adjektiv „vorsichtig“.
+849;09 Eigenschaften & Gefühle;bezpečný;sicher;Dnes si zapamätám prídavné meno „bezpečný“.;Heute merke ich mir das Adjektiv „sicher“.
+850;09 Eigenschaften & Gefühle;nebezpečný;gefährlich;Dnes si zapamätám prídavné meno „nebezpečný“.;Heute merke ich mir das Adjektiv „gefährlich“.
+851;09 Eigenschaften & Gefühle;lacný;billig;Dnes si zapamätám prídavné meno „lacný“.;Heute merke ich mir das Adjektiv „billig“.
+852;09 Eigenschaften & Gefühle;drahý;teuer;Dnes si zapamätám prídavné meno „drahý“.;Heute merke ich mir das Adjektiv „teuer“.
+853;09 Eigenschaften & Gefühle;bohatý;reich;Dnes si zapamätám prídavné meno „bohatý“.;Heute merke ich mir das Adjektiv „reich“.
+854;09 Eigenschaften & Gefühle;chudobný;arm;Dnes si zapamätám prídavné meno „chudobný“.;Heute merke ich mir das Adjektiv „arm“.
+855;09 Eigenschaften & Gefühle;otvorený;offen;Dnes si zapamätám prídavné meno „otvorený“.;Heute merke ich mir das Adjektiv „offen“.
+856;09 Eigenschaften & Gefühle;zatvorený;geschlossen;Dnes si zapamätám prídavné meno „zatvorený“.;Heute merke ich mir das Adjektiv „geschlossen“.
+857;09 Eigenschaften & Gefühle;svetlý;hell;Dnes si zapamätám prídavné meno „svetlý“.;Heute merke ich mir das Adjektiv „hell“.
+858;09 Eigenschaften & Gefühle;tmavý;dunkel;Dnes si zapamätám prídavné meno „tmavý“.;Heute merke ich mir das Adjektiv „dunkel“.
+859;09 Eigenschaften & Gefühle;farebný;bunt;Dnes si zapamätám prídavné meno „farebný“.;Heute merke ich mir das Adjektiv „bunt“.
+860;09 Eigenschaften & Gefühle;biely;weiß;Dnes si zapamätám prídavné meno „biely“.;Heute merke ich mir das Adjektiv „weiß“.
+861;09 Eigenschaften & Gefühle;čierny;schwarz;Dnes si zapamätám prídavné meno „čierny“.;Heute merke ich mir das Adjektiv „schwarz“.
+862;09 Eigenschaften & Gefühle;červený;rot;Dnes si zapamätám prídavné meno „červený“.;Heute merke ich mir das Adjektiv „rot“.
+863;09 Eigenschaften & Gefühle;modrý;blau;Dnes si zapamätám prídavné meno „modrý“.;Heute merke ich mir das Adjektiv „blau“.
+864;09 Eigenschaften & Gefühle;zelený;grün;Dnes si zapamätám prídavné meno „zelený“.;Heute merke ich mir das Adjektiv „grün“.
+865;09 Eigenschaften & Gefühle;žltý;gelb;Dnes si zapamätám prídavné meno „žltý“.;Heute merke ich mir das Adjektiv „gelb“.
+866;09 Eigenschaften & Gefühle;oranžový;orange;Dnes si zapamätám prídavné meno „oranžový“.;Heute merke ich mir das Adjektiv „orange“.
+867;09 Eigenschaften & Gefühle;ružový;rosa;Dnes si zapamätám prídavné meno „ružový“.;Heute merke ich mir das Adjektiv „rosa“.
+868;09 Eigenschaften & Gefühle;fialový;lila;Dnes si zapamätám prídavné meno „fialový“.;Heute merke ich mir das Adjektiv „lila“.
+869;09 Eigenschaften & Gefühle;sivý;grau;Dnes si zapamätám prídavné meno „sivý“.;Heute merke ich mir das Adjektiv „grau“.
+870;09 Eigenschaften & Gefühle;hnedý;braun;Dnes si zapamätám prídavné meno „hnedý“.;Heute merke ich mir das Adjektiv „braun“.
+871;09 Eigenschaften & Gefühle;moderný;modern;Dnes si zapamätám prídavné meno „moderný“.;Heute merke ich mir das Adjektiv „modern“.
+872;09 Eigenschaften & Gefühle;tradičný;traditionell;Dnes si zapamätám prídavné meno „tradičný“.;Heute merke ich mir das Adjektiv „traditionell“.
+873;09 Eigenschaften & Gefühle;praktický;praktisch;Dnes si zapamätám prídavné meno „praktický“.;Heute merke ich mir das Adjektiv „praktisch“.
+874;09 Eigenschaften & Gefühle;kvalitný;hochwertig;Dnes si zapamätám prídavné meno „kvalitný“.;Heute merke ich mir das Adjektiv „hochwertig“.
+875;09 Eigenschaften & Gefühle;obľúbený;beliebt/Lieblings-;Dnes si zapamätám prídavné meno „obľúbený“.;Heute merke ich mir das Adjektiv „beliebt/Lieblings-“.
+876;10 Arbeit, Studium & Kreativität;práca;Arbeit;Dnes si zapamätám slovo „práca“.;Heute merke ich mir das Wort „Arbeit“.
+877;10 Arbeit, Studium & Kreativität;škola;Schule;Dnes si zapamätám slovo „škola“.;Heute merke ich mir das Wort „Schule“.
+878;10 Arbeit, Studium & Kreativität;univerzita;Universität;Dnes si zapamätám slovo „univerzita“.;Heute merke ich mir das Wort „Universität“.
+879;10 Arbeit, Studium & Kreativität;štúdium;Studium;Dnes si zapamätám slovo „štúdium“.;Heute merke ich mir das Wort „Studium“.
+880;10 Arbeit, Studium & Kreativität;kurz;Kurs;Dnes si zapamätám slovo „kurz“.;Heute merke ich mir das Wort „Kurs“.
+881;10 Arbeit, Studium & Kreativität;predmet;Fach;Dnes si zapamätám slovo „predmet“.;Heute merke ich mir das Wort „Fach“.
+882;10 Arbeit, Studium & Kreativität;skúška;Prüfung;Dnes si zapamätám slovo „skúška“.;Heute merke ich mir das Wort „Prüfung“.
+883;10 Arbeit, Studium & Kreativität;úloha;Aufgabe;Dnes si zapamätám slovo „úloha“.;Heute merke ich mir das Wort „Aufgabe“.
+884;10 Arbeit, Studium & Kreativität;projekt;Projekt;Dnes si zapamätám slovo „projekt“.;Heute merke ich mir das Wort „Projekt“.
+885;10 Arbeit, Studium & Kreativität;prezentácia;Präsentation;Dnes si zapamätám slovo „prezentácia“.;Heute merke ich mir das Wort „Präsentation“.
+886;10 Arbeit, Studium & Kreativität;výsledok;Ergebnis;Dnes si zapamätám slovo „výsledok“.;Heute merke ich mir das Wort „Ergebnis“.
+887;10 Arbeit, Studium & Kreativität;cieľ;Ziel;Dnes si zapamätám slovo „cieľ“.;Heute merke ich mir das Wort „Ziel“.
+888;10 Arbeit, Studium & Kreativität;plán;Plan;Dnes si zapamätám slovo „plán“.;Heute merke ich mir das Wort „Plan“.
+889;10 Arbeit, Studium & Kreativität;proces;Prozess;Dnes si zapamätám slovo „proces“.;Heute merke ich mir das Wort „Prozess“.
+890;10 Arbeit, Studium & Kreativität;metóda;Methode;Dnes si zapamätám slovo „metóda“.;Heute merke ich mir das Wort „Methode“.
+891;10 Arbeit, Studium & Kreativität;systém;System;Dnes si zapamätám slovo „systém“.;Heute merke ich mir das Wort „System“.
+892;10 Arbeit, Studium & Kreativität;informácia;Information;Dnes si zapamätám slovo „informácia“.;Heute merke ich mir das Wort „Information“.
+893;10 Arbeit, Studium & Kreativität;text;Text;Dnes si zapamätám slovo „text“.;Heute merke ich mir das Wort „Text“.
+894;10 Arbeit, Studium & Kreativität;slovo;Wort;Dnes si zapamätám slovo „slovo“.;Heute merke ich mir das Wort „Wort“.
+895;10 Arbeit, Studium & Kreativität;veta;Satz;Dnes si zapamätám slovo „veta“.;Heute merke ich mir das Wort „Satz“.
+896;10 Arbeit, Studium & Kreativität;jazyk;Sprache;Dnes si zapamätám slovo „jazyk“.;Heute merke ich mir das Wort „Sprache“.
+897;10 Arbeit, Studium & Kreativität;slovenčina;Slowakisch;Dnes si zapamätám slovo „slovenčina“.;Heute merke ich mir das Wort „Slowakisch“.
+898;10 Arbeit, Studium & Kreativität;nemčina;Deutsch;Dnes si zapamätám slovo „nemčina“.;Heute merke ich mir das Wort „Deutsch“.
+899;10 Arbeit, Studium & Kreativität;angličtina;Englisch;Dnes si zapamätám slovo „angličtina“.;Heute merke ich mir das Wort „Englisch“.
+900;10 Arbeit, Studium & Kreativität;preklad;Übersetzung;Dnes si zapamätám slovo „preklad“.;Heute merke ich mir das Wort „Übersetzung“.
+901;10 Arbeit, Studium & Kreativität;význam;Bedeutung;Dnes si zapamätám slovo „význam“.;Heute merke ich mir das Wort „Bedeutung“.
+902;10 Arbeit, Studium & Kreativität;chyba;Fehler;Dnes si zapamätám slovo „chyba“.;Heute merke ich mir das Wort „Fehler“.
+903;10 Arbeit, Studium & Kreativität;príklad;Beispiel;Dnes si zapamätám slovo „príklad“.;Heute merke ich mir das Wort „Beispiel“.
+904;10 Arbeit, Studium & Kreativität;cvičenie;Übung;Dnes si zapamätám slovo „cvičenie“.;Heute merke ich mir das Wort „Übung“.
+905;10 Arbeit, Studium & Kreativität;poznámka;Notiz;Dnes si zapamätám slovo „poznámka“.;Heute merke ich mir das Wort „Notiz“.
+906;10 Arbeit, Studium & Kreativität;kniha;Buch;Dnes si zapamätám slovo „kniha“.;Heute merke ich mir das Wort „Buch“.
+907;10 Arbeit, Studium & Kreativität;strana;Seite;Dnes si zapamätám slovo „strana“.;Heute merke ich mir das Wort „Seite“.
+908;10 Arbeit, Studium & Kreativität;kapitola;Kapitel;Dnes si zapamätám slovo „kapitola“.;Heute merke ich mir das Wort „Kapitel“.
+909;10 Arbeit, Studium & Kreativität;počítač;Computer;Dnes si zapamätám slovo „počítač“.;Heute merke ich mir das Wort „Computer“.
+910;10 Arbeit, Studium & Kreativität;notebook;Laptop;Dnes si zapamätám slovo „notebook“.;Heute merke ich mir das Wort „Laptop“.
+911;10 Arbeit, Studium & Kreativität;obrazovka;Bildschirm;Dnes si zapamätám slovo „obrazovka“.;Heute merke ich mir das Wort „Bildschirm“.
+912;10 Arbeit, Studium & Kreativität;klávesnica;Tastatur;Dnes si zapamätám slovo „klávesnica“.;Heute merke ich mir das Wort „Tastatur“.
+913;10 Arbeit, Studium & Kreativität;myš;Maus;Dnes si zapamätám slovo „myš“.;Heute merke ich mir das Wort „Maus“.
+914;10 Arbeit, Studium & Kreativität;súbor;Datei;Dnes si zapamätám slovo „súbor“.;Heute merke ich mir das Wort „Datei“.
+915;10 Arbeit, Studium & Kreativität;priečinok;Ordner;Dnes si zapamätám slovo „priečinok“.;Heute merke ich mir das Wort „Ordner“.
+916;10 Arbeit, Studium & Kreativität;program;Programm;Dnes si zapamätám slovo „program“.;Heute merke ich mir das Wort „Programm“.
+917;10 Arbeit, Studium & Kreativität;aplikácia;App;Dnes si zapamätám slovo „aplikácia“.;Heute merke ich mir das Wort „App“.
+918;10 Arbeit, Studium & Kreativität;web;Web;Dnes si zapamätám slovo „web“.;Heute merke ich mir das Wort „Web“.
+919;10 Arbeit, Studium & Kreativität;stránka;Webseite/Seite;Dnes si zapamätám slovo „stránka“.;Heute merke ich mir das Wort „Webseite/Seite“.
+920;10 Arbeit, Studium & Kreativität;heslo;Passwort;Dnes si zapamätám slovo „heslo“.;Heute merke ich mir das Wort „Passwort“.
+921;10 Arbeit, Studium & Kreativität;email;E-Mail;Dnes si zapamätám slovo „email“.;Heute merke ich mir das Wort „E-Mail“.
+922;10 Arbeit, Studium & Kreativität;fotografia;Fotografie;Dnes si zapamätám slovo „fotografia“.;Heute merke ich mir das Wort „Fotografie“.
+923;10 Arbeit, Studium & Kreativität;fotka;Foto;Dnes si zapamätám slovo „fotka“.;Heute merke ich mir das Wort „Foto“.
+924;10 Arbeit, Studium & Kreativität;fotoaparát;Kamera;Dnes si zapamätám slovo „fotoaparát“.;Heute merke ich mir das Wort „Kamera“.
+925;10 Arbeit, Studium & Kreativität;objektív;Objektiv;Dnes si zapamätám slovo „objektív“.;Heute merke ich mir das Wort „Objektiv“.
+926;10 Arbeit, Studium & Kreativität;video;Video;Dnes si zapamätám slovo „video“.;Heute merke ich mir das Wort „Video“.
+927;10 Arbeit, Studium & Kreativität;film;Film;Dnes si zapamätám slovo „film“.;Heute merke ich mir das Wort „Film“.
+928;10 Arbeit, Studium & Kreativität;hudba;Musik;Dnes si zapamätám slovo „hudba“.;Heute merke ich mir das Wort „Musik“.
+929;10 Arbeit, Studium & Kreativität;pieseň;Lied;Dnes si zapamätám slovo „pieseň“.;Heute merke ich mir das Wort „Lied“.
+930;10 Arbeit, Studium & Kreativität;zvuk;Ton;Dnes si zapamätám slovo „zvuk“.;Heute merke ich mir das Wort „Ton“.
+931;10 Arbeit, Studium & Kreativität;farba;Farbe;Dnes si zapamätám slovo „farba“.;Heute merke ich mir das Wort „Farbe“.
+932;10 Arbeit, Studium & Kreativität;tvar;Form;Dnes si zapamätám slovo „tvar“.;Heute merke ich mir das Wort „Form“.
+933;10 Arbeit, Studium & Kreativität;materiál;Material;Dnes si zapamätám slovo „materiál“.;Heute merke ich mir das Wort „Material“.
+934;10 Arbeit, Studium & Kreativität;dizajn;Design;Dnes si zapamätám slovo „dizajn“.;Heute merke ich mir das Wort „Design“.
+935;10 Arbeit, Studium & Kreativität;návrh;Entwurf;Dnes si zapamätám slovo „návrh“.;Heute merke ich mir das Wort „Entwurf“.
+936;10 Arbeit, Studium & Kreativität;model;Modell;Dnes si zapamätám slovo „model“.;Heute merke ich mir das Wort „Modell“.
+937;10 Arbeit, Studium & Kreativität;prototyp;Prototyp;Dnes si zapamätám slovo „prototyp“.;Heute merke ich mir das Wort „Prototyp“.
+938;10 Arbeit, Studium & Kreativität;výrobok;Produkt;Dnes si zapamätám slovo „výrobok“.;Heute merke ich mir das Wort „Produkt“.
+939;10 Arbeit, Studium & Kreativität;produkt;Produkt;Dnes si zapamätám slovo „produkt“.;Heute merke ich mir das Wort „Produkt“.
+940;10 Arbeit, Studium & Kreativität;obrázok;Bild;Dnes si zapamätám slovo „obrázok“.;Heute merke ich mir das Wort „Bild“.
+941;10 Arbeit, Studium & Kreativität;kresba;Zeichnung;Dnes si zapamätám slovo „kresba“.;Heute merke ich mir das Wort „Zeichnung“.
+942;10 Arbeit, Studium & Kreativität;umenie;Kunst;Dnes si zapamätám slovo „umenie“.;Heute merke ich mir das Wort „Kunst“.
+943;10 Arbeit, Studium & Kreativität;umelec;Künstler;Dnes si zapamätám slovo „umelec“.;Heute merke ich mir das Wort „Künstler“.
+944;10 Arbeit, Studium & Kreativität;dizajnér;Designer;Dnes si zapamätám slovo „dizajnér“.;Heute merke ich mir das Wort „Designer“.
+945;10 Arbeit, Studium & Kreativität;fotograf;Fotograf;Dnes si zapamätám slovo „fotograf“.;Heute merke ich mir das Wort „Fotograf“.
+946;10 Arbeit, Studium & Kreativität;kamera;Kamera;Dnes si zapamätám slovo „kamera“.;Heute merke ich mir das Wort „Kamera“.
+947;10 Arbeit, Studium & Kreativität;tieň;Schatten;Dnes si zapamätám slovo „tieň“.;Heute merke ich mir das Wort „Schatten“.
+948;10 Arbeit, Studium & Kreativität;kompozícia;Komposition;Dnes si zapamätám slovo „kompozícia“.;Heute merke ich mir das Wort „Komposition“.
+949;10 Arbeit, Studium & Kreativität;štruktúra;Struktur;Dnes si zapamätám slovo „štruktúra“.;Heute merke ich mir das Wort „Struktur“.
+950;10 Arbeit, Studium & Kreativität;povrch;Oberfläche;Dnes si zapamätám slovo „povrch“.;Heute merke ich mir das Wort „Oberfläche“.
+951;10 Arbeit, Studium & Kreativität;detail;Detail;Dnes si zapamätám slovo „detail“.;Heute merke ich mir das Wort „Detail“.
+952;10 Arbeit, Studium & Kreativität;kvalita;Qualität;Dnes si zapamätám slovo „kvalita“.;Heute merke ich mir das Wort „Qualität“.
+953;10 Arbeit, Studium & Kreativität;veľkosť;Größe;Dnes si zapamätám slovo „veľkosť“.;Heute merke ich mir das Wort „Größe“.
+954;10 Arbeit, Studium & Kreativität;rozmer;Maß/Dimension;Dnes si zapamätám slovo „rozmer“.;Heute merke ich mir das Wort „Maß/Dimension“.
+955;10 Arbeit, Studium & Kreativität;šírka;Breite;Dnes si zapamätám slovo „šírka“.;Heute merke ich mir das Wort „Breite“.
+956;10 Arbeit, Studium & Kreativität;výška;Höhe;Dnes si zapamätám slovo „výška“.;Heute merke ich mir das Wort „Höhe“.
+957;10 Arbeit, Studium & Kreativität;dĺžka;Länge;Dnes si zapamätám slovo „dĺžka“.;Heute merke ich mir das Wort „Länge“.
+958;10 Arbeit, Studium & Kreativität;hmotnosť;Gewicht;Dnes si zapamätám slovo „hmotnosť“.;Heute merke ich mir das Wort „Gewicht“.
+959;10 Arbeit, Studium & Kreativität;cena;Preis;Dnes si zapamätám slovo „cena“.;Heute merke ich mir das Wort „Preis“.
+960;10 Arbeit, Studium & Kreativität;peniaze;Geld;Dnes si zapamätám slovo „peniaze“.;Heute merke ich mir das Wort „Geld“.
+961;10 Arbeit, Studium & Kreativität;euro;Euro;Dnes si zapamätám slovo „euro“.;Heute merke ich mir das Wort „Euro“.
+962;10 Arbeit, Studium & Kreativität;firma;Firma;Dnes si zapamätám slovo „firma“.;Heute merke ich mir das Wort „Firma“.
+963;10 Arbeit, Studium & Kreativität;klient;Kunde/Klient;Dnes si zapamätám slovo „klient“.;Heute merke ich mir das Wort „Kunde/Klient“.
+964;10 Arbeit, Studium & Kreativität;zákazka;Auftrag;Dnes si zapamätám slovo „zákazka“.;Heute merke ich mir das Wort „Auftrag“.
+965;10 Arbeit, Studium & Kreativität;zmluva;Vertrag;Dnes si zapamätám slovo „zmluva“.;Heute merke ich mir das Wort „Vertrag“.
+966;10 Arbeit, Studium & Kreativität;ponuka;Angebot;Dnes si zapamätám slovo „ponuka“.;Heute merke ich mir das Wort „Angebot“.
+967;10 Arbeit, Studium & Kreativität;faktúra;Rechnung;Dnes si zapamätám slovo „faktúra“.;Heute merke ich mir das Wort „Rechnung“.
+968;10 Arbeit, Studium & Kreativität;plat;Gehalt;Dnes si zapamätám slovo „plat“.;Heute merke ich mir das Wort „Gehalt“.
+969;10 Arbeit, Studium & Kreativität;skúsenosť;Erfahrung;Dnes si zapamätám slovo „skúsenosť“.;Heute merke ich mir das Wort „Erfahrung“.
+970;10 Arbeit, Studium & Kreativität;zručnosť;Fähigkeit;Dnes si zapamätám slovo „zručnosť“.;Heute merke ich mir das Wort „Fähigkeit“.
+971;10 Arbeit, Studium & Kreativität;kariéra;Karriere;Dnes si zapamätám slovo „kariéra“.;Heute merke ich mir das Wort „Karriere“.
+972;10 Arbeit, Studium & Kreativität;úspech;Erfolg;Dnes si zapamätám slovo „úspech“.;Heute merke ich mir das Wort „Erfolg“.
+973;11 Freizeit, Natur & Körper;voľný čas;Freizeit;Dnes si zapamätám slovo „voľný čas“.;Heute merke ich mir das Wort „Freizeit“.
+974;11 Freizeit, Natur & Körper;hobby;Hobby;Dnes si zapamätám slovo „hobby“.;Heute merke ich mir das Wort „Hobby“.
+975;11 Freizeit, Natur & Körper;šport;Sport;Dnes si zapamätám slovo „šport“.;Heute merke ich mir das Wort „Sport“.
+976;11 Freizeit, Natur & Körper;futbal;Fußball;Dnes si zapamätám slovo „futbal“.;Heute merke ich mir das Wort „Fußball“.
+977;11 Freizeit, Natur & Körper;tenis;Tennis;Dnes si zapamätám slovo „tenis“.;Heute merke ich mir das Wort „Tennis“.
+978;11 Freizeit, Natur & Körper;beh;Laufen;Dnes si zapamätám slovo „beh“.;Heute merke ich mir das Wort „Laufen“.
+979;11 Freizeit, Natur & Körper;bicyklovanie;Radfahren;Dnes si zapamätám slovo „bicyklovanie“.;Heute merke ich mir das Wort „Radfahren“.
+980;11 Freizeit, Natur & Körper;lezenie;Klettern;Dnes si zapamätám slovo „lezenie“.;Heute merke ich mir das Wort „Klettern“.
+981;11 Freizeit, Natur & Körper;turistika;Wandern;Dnes si zapamätám slovo „turistika“.;Heute merke ich mir das Wort „Wandern“.
+982;11 Freizeit, Natur & Körper;plávanie;Schwimmen;Dnes si zapamätám slovo „plávanie“.;Heute merke ich mir das Wort „Schwimmen“.
+983;11 Freizeit, Natur & Körper;posilňovňa;Fitnessstudio;Dnes si zapamätám slovo „posilňovňa“.;Heute merke ich mir das Wort „Fitnessstudio“.
+984;11 Freizeit, Natur & Körper;tréning;Training;Dnes si zapamätám slovo „tréning“.;Heute merke ich mir das Wort „Training“.
+985;11 Freizeit, Natur & Körper;hra;Spiel;Dnes si zapamätám slovo „hra“.;Heute merke ich mir das Wort „Spiel“.
+986;11 Freizeit, Natur & Körper;lopta;Ball;Dnes si zapamätám slovo „lopta“.;Heute merke ich mir das Wort „Ball“.
+987;11 Freizeit, Natur & Körper;časopis;Zeitschrift;Dnes si zapamätám slovo „časopis“.;Heute merke ich mir das Wort „Zeitschrift“.
+988;11 Freizeit, Natur & Körper;seriál;Serie;Dnes si zapamätám slovo „seriál“.;Heute merke ich mir das Wort „Serie“.
+989;11 Freizeit, Natur & Körper;epizóda;Episode;Dnes si zapamätám slovo „epizóda“.;Heute merke ich mir das Wort „Episode“.
+990;11 Freizeit, Natur & Körper;hudobník;Musiker;Dnes si zapamätám slovo „hudobník“.;Heute merke ich mir das Wort „Musiker“.
+991;11 Freizeit, Natur & Körper;kapela;Band;Dnes si zapamätám slovo „kapela“.;Heute merke ich mir das Wort „Band“.
+992;11 Freizeit, Natur & Körper;album;Album;Dnes si zapamätám slovo „album“.;Heute merke ich mir das Wort „Album“.
+993;11 Freizeit, Natur & Körper;pes;Hund;Dnes si zapamätám slovo „pes“.;Heute merke ich mir das Wort „Hund“.
+994;11 Freizeit, Natur & Körper;mačka;Katze;Dnes si zapamätám slovo „mačka“.;Heute merke ich mir das Wort „Katze“.
+995;11 Freizeit, Natur & Körper;zviera;Tier;Dnes si zapamätám slovo „zviera“.;Heute merke ich mir das Wort „Tier“.
+996;11 Freizeit, Natur & Körper;vták;Vogel;Dnes si zapamätám slovo „vták“.;Heute merke ich mir das Wort „Vogel“.
+997;11 Freizeit, Natur & Körper;strom;Baum;Dnes si zapamätám slovo „strom“.;Heute merke ich mir das Wort „Baum“.
+998;11 Freizeit, Natur & Körper;kvet;Blume;Dnes si zapamätám slovo „kvet“.;Heute merke ich mir das Wort „Blume“.
+999;11 Freizeit, Natur & Körper;tráva;Gras;Dnes si zapamätám slovo „tráva“.;Heute merke ich mir das Wort „Gras“.
+1000;11 Freizeit, Natur & Körper;kameň;Stein;Dnes si zapamätám slovo „kameň“.;Heute merke ich mir das Wort „Stein“.
